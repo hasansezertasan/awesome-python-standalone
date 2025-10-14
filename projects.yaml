@@ -31,3 +31,7 @@ projects:
     github_id: ofek/pyapp
     labels: ["written-in-rust"]
     category: "miscellaneous"
+  - name: PyOxidizer
+    github_id: indygreg/PyOxidizer
+    labels: ["written-in-rust"]
+    category: "miscellaneous"
