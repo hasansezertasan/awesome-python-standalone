@@ -39,3 +39,7 @@ projects:
     github_id: py2exe/py2exe
     labels: ["written-in-c", "written-in-python"]
     category: "miscellaneous"
+  - name: shiv
+    github_id: linkedin/shiv
+    labels: ["written-in-python"]
+    category: "miscellaneous"
