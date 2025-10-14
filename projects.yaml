@@ -47,3 +47,6 @@ projects:
     github_id: pex-tool/pex
     labels: ["written-in-python"]
     category: "miscellaneous"
+  - name: "zipapp — Manage executable Python zip archives"
+    homepage: "https://docs.python.org/3/library/zipapp.html"
+    resource: True
