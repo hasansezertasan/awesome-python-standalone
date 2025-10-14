@@ -11,9 +11,16 @@ labels:
   - label: "written-in-c"
     description: "Written in C"
     image: "https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png"
+  - label: "written-in-python"
+    description: "Written in Python"
+    image: "https://www.python.org/static/favicon.ico"
 
 projects:
   - name: pyinstaller
     github_id: pyinstaller/pyinstaller
     labels: ["written-in-c"]
+    category: "miscellaneous"
+  - name: briefcase
+    github_id: beeware/briefcase
+    labels: ["written-in-python"]
     category: "miscellaneous"
