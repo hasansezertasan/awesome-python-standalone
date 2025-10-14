@@ -3,17 +3,17 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+  - category: "miscellaneous"
+    title: "Miscellaneous"
+    subtitle: "If you can think of a more appropriate category for the items below, PRs welcome!"
 
 labels:
-  # - label: "python"
-  #   image: "https://www.python.org/static/favicon.ico"
-  #   description: "Best-of list with Python projects"
+  - label: "written-in-c"
+    description: "Written in C"
+    image: "https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png"
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  - name: pyinstaller
+    github_id: pyinstaller/pyinstaller
+    labels: ["written-in-c"]
+    category: "miscellaneous"
