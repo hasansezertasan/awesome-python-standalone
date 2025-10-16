@@ -52,9 +52,9 @@ This curated list contains 9 awesome open-source projects with a total of 32K st
 
 _If you can think of a more appropriate category for the items below, PRs welcome!_
 
-<details><summary><b><a href="https://github.com/pex-tool/pex">pex</a></b> (🥈29 ·  ⭐ 4.1K · ➕) - A tool for generating .pex (Python EXecutable) files, lock files.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/pex-tool/pex">pex</a></b> (🥈29 ·  ⭐ 4.1K) - A tool for generating .pex (Python EXecutable) files, lock files and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pex-tool/pex) (👨‍💻 120 · 🔀 300 · 📥 570K · 📋 1.2K - 5% open · ⏱️ 14.10.2025):
+- [GitHub](https://github.com/pex-tool/pex) (👨‍💻 120 · 🔀 300 · 📥 600K · 📋 1.2K - 5% open · ⏱️ 15.10.2025):
 
 	```
 	git clone https://github.com/pex-tool/pex
@@ -62,7 +62,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/beeware/briefcase">briefcase</a></b> (🥈29 ·  ⭐ 3.1K) - Tools to support converting a Python project into a standalone.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/beeware/briefcase) (👨‍💻 190 · 🔀 450 · 📥 830 · 📦 840 · 📋 940 - 17% open · ⏱️ 14.10.2025):
+- [GitHub](https://github.com/beeware/briefcase) (👨‍💻 190 · 🔀 450 · 📥 840 · 📦 840 · 📋 940 - 17% open · ⏱️ 16.10.2025):
 
 	```
 	git clone https://github.com/beeware/briefcase
@@ -84,7 +84,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 	git clone https://github.com/linkedin/shiv
 	```
 </details>
-<details><summary><b><a href="https://github.com/skywind3000/PyStand">PyStand</a></b> (🥉16 ·  ⭐ 1.1K · ➕) - Python Standalone Deploy Environment !!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://isocpp.org/assets/images/cpp_logo.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/skywind3000/PyStand">PyStand</a></b> (🥉16 ·  ⭐ 1.1K) - Python Standalone Deploy Environment !!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://isocpp.org/assets/images/cpp_logo.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/skywind3000/PyStand) (👨‍💻 5 · 🔀 130 · 📥 15K · 📋 86 - 44% open · ⏱️ 09.04.2025):
 
@@ -95,8 +95,8 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 <details><summary>Show 3 hidden projects...</summary>
 
 - <b><a href="https://github.com/pyinstaller/pyinstaller">pyinstaller</a></b> (🥇39 ·  ⭐ 13K) - Freeze (package) Python programs into stand-alone.. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/py2exe/py2exe">py2exe</a></b> (🥉23 ·  ⭐ 970 · ➕) - Create standalone Windows programs from Python code. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/ofek/pyapp">pyapp</a></b> (🥉20 ·  ⭐ 1.8K) - Runtime installer for Python applications. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/py2exe/py2exe">py2exe</a></b> (🥉23 ·  ⭐ 970) - Create standalone Windows programs from Python code. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/ofek/pyapp">pyapp</a></b> (🥉21 ·  ⭐ 1.8K · 📈) - Runtime installer for Python applications. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code>
 </details>
 <br>
 
