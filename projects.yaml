@@ -60,3 +60,7 @@ projects:
   - name: "Why it's so hard to redistribute standalone Python apps"
     homepage: "https://www.youtube.com/watch?v=3BfGAYfKZIg"
     resource: True
+  - name: nuitka
+    github_id: Nuitka/Nuitka
+    labels: ["written-in-c", "written-in-python"]
+    category: "miscellaneous"
