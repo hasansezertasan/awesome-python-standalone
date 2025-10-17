@@ -57,3 +57,6 @@ projects:
     github_id: skywind3000/PyStand
     labels: ["written-in-cpp"]
     category: "miscellaneous"
+  - name: "Why it's so hard to redistribute standalone Python apps"
+    homepage: "https://www.youtube.com/watch?v=3BfGAYfKZIg"
+    resource: True
