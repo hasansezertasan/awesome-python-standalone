@@ -10,19 +10,19 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-9-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-12-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/hasansezertasan/awesome-python-standalone/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/hasansezertasan/awesome-python-standalone?color=green&label=updated"></a>
 </p>
 
-This curated list contains 9 awesome open-source projects with a total of 32K stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-standalone/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-standalone/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-standalone/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 12 awesome open-source projects with a total of 47K stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-standalone/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-standalone/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-standalone/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
-- [Miscellaneous](#miscellaneous) _8 projects_
-- [Others](#others) _1 projects_
+- [Miscellaneous](#miscellaneous) _10 projects_
+- [Others](#others) _2 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -52,9 +52,17 @@ This curated list contains 9 awesome open-source projects with a total of 32K st
 
 _If you can think of a more appropriate category for the items below, PRs welcome!_
 
+<details><summary><b><a href="https://github.com/Nuitka/Nuitka">nuitka</a></b> (🥈31 ·  ⭐ 14K · ➕) - Nuitka is a Python compiler written in Python. Its fully.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/Nuitka/Nuitka) (👨‍💻 200 · 🔀 720 · 📦 3.4K · 📋 2.7K - 5% open · ⏱️ 12.10.2025):
+
+	```
+	git clone https://github.com/Nuitka/Nuitka
+	```
+</details>
 <details><summary><b><a href="https://github.com/pex-tool/pex">pex</a></b> (🥈29 ·  ⭐ 4.1K) - A tool for generating .pex (Python EXecutable) files, lock files and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pex-tool/pex) (👨‍💻 120 · 🔀 300 · 📥 600K · 📋 1.2K - 5% open · ⏱️ 15.10.2025):
+- [GitHub](https://github.com/pex-tool/pex) (👨‍💻 120 · 🔀 300 · 📥 610K · 📋 1.2K - 5% open · ⏱️ 15.10.2025):
 
 	```
 	git clone https://github.com/pex-tool/pex
@@ -92,11 +100,12 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 	git clone https://github.com/skywind3000/PyStand
 	```
 </details>
-<details><summary>Show 3 hidden projects...</summary>
+<details><summary>Show 4 hidden projects...</summary>
 
 - <b><a href="https://github.com/pyinstaller/pyinstaller">pyinstaller</a></b> (🥇39 ·  ⭐ 13K) - Freeze (package) Python programs into stand-alone.. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/py2exe/py2exe">py2exe</a></b> (🥉23 ·  ⭐ 970) - Create standalone Windows programs from Python code. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/ofek/pyapp">pyapp</a></b> (🥉21 ·  ⭐ 1.8K · 📈) - Runtime installer for Python applications. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/marcelotduarte/cx_Freeze">cx_Freeze</a></b> (🥉22 ·  ⭐ 1.5K · ➕) - Creates standalone executables from Python scripts.. <code>❗Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/ofek/pyapp">pyapp</a></b> (🥉21 ·  ⭐ 1.8K) - Runtime installer for Python applications. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code>
 </details>
 <br>
 
@@ -105,6 +114,8 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
 🔗&nbsp;<b><a href="https://docs.python.org/3/library/zipapp.html">zipapp — Manage executable Python zip archives</a></b>  
+
+🔗&nbsp;<b><a href="https://www.youtube.com/watch?v=3BfGAYfKZIg">Why it's so hard to redistribute standalone Python apps</a></b>  
 
 
 ---
