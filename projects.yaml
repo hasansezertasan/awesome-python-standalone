@@ -68,3 +68,6 @@ projects:
     github_id: marcelotduarte/cx_Freeze
     labels: ["written-in-python"]
     category: "miscellaneous"
+  - name: "How to use the Python embeddable redistribution to make standalone apps"
+    homepage: "https://www.youtube.com/watch?v=xiwdz2LAtGc"
+    resource: True
