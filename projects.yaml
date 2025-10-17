@@ -64,3 +64,7 @@ projects:
     github_id: Nuitka/Nuitka
     labels: ["written-in-c", "written-in-python"]
     category: "miscellaneous"
+  - name: cx_Freeze
+    github_id: marcelotduarte/cx_Freeze
+    labels: ["written-in-python"]
+    category: "miscellaneous"
