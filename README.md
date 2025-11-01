@@ -10,18 +10,18 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-13-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-14-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/hasansezertasan/awesome-python-standalone/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/hasansezertasan/awesome-python-standalone?color=green&label=updated"></a>
 </p>
 
-This curated list contains 13 awesome open-source projects with a total of 47K stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-standalone/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-standalone/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-standalone/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 14 awesome open-source projects with a total of 47K stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-standalone/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-standalone/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-standalone/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
-- [Miscellaneous](#miscellaneous) _10 projects_
+- [Miscellaneous](#miscellaneous) _11 projects_
 - [Others](#others) _3 projects_
 
 ## Explanation
@@ -52,7 +52,7 @@ This curated list contains 13 awesome open-source projects with a total of 47K s
 
 _If you can think of a more appropriate category for the items below, PRs welcome!_
 
-<details><summary><b><a href="https://github.com/Nuitka/Nuitka">nuitka</a></b> (🥈31 ·  ⭐ 14K) - Nuitka is a Python compiler written in Python. Its fully.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/Nuitka/Nuitka">nuitka</a></b> (🥇31 ·  ⭐ 14K) - Nuitka is a Python compiler written in Python. Its fully.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/Nuitka/Nuitka) (👨‍💻 200 · 🔀 720 · 📦 3.5K · 📋 2.7K - 5% open · ⏱️ 22.10.2025):
 
@@ -62,7 +62,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/pex-tool/pex">pex</a></b> (🥈29 ·  ⭐ 4.1K) - A tool for generating .pex (Python EXecutable) files, lock files and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pex-tool/pex) (👨‍💻 120 · 🔀 300 · 📥 660K · 📋 1.2K - 5% open · ⏱️ 22.10.2025):
+- [GitHub](https://github.com/pex-tool/pex) (👨‍💻 120 · 🔀 300 · 📥 240K · 📋 1.2K - 5% open · ⏱️ 29.10.2025):
 
 	```
 	git clone https://github.com/pex-tool/pex
@@ -70,13 +70,13 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/beeware/briefcase">briefcase</a></b> (🥈29 ·  ⭐ 3.1K) - Tools to support converting a Python project into a standalone.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/beeware/briefcase) (👨‍💻 190 · 🔀 450 · 📥 840 · 📦 840 · 📋 940 - 17% open · ⏱️ 23.10.2025):
+- [GitHub](https://github.com/beeware/briefcase) (👨‍💻 190 · 🔀 460 · 📥 850 · 📦 840 · 📋 940 - 17% open · ⏱️ 29.10.2025):
 
 	```
 	git clone https://github.com/beeware/briefcase
 	```
 </details>
-<details><summary><b><a href="https://github.com/indygreg/PyOxidizer">PyOxidizer</a></b> (🥉24 ·  ⭐ 6K · 💤) - A modern Python application packaging and distribution tool. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/indygreg/PyOxidizer">PyOxidizer</a></b> (🥈24 ·  ⭐ 6K · 💤) - A modern Python application packaging and distribution tool. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/indygreg/PyOxidizer) (👨‍💻 54 · 🔀 250 · 📥 25K · 📦 160 · 📋 570 - 58% open · ⏱️ 03.11.2024):
 
@@ -98,6 +98,14 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 	```
 	git clone https://github.com/skywind3000/PyStand
+	```
+</details>
+<details><summary><b><a href="https://github.com/tusharsadhwani/packaged">packaged</a></b> (🥉10 ·  ⭐ 200 · 💤) - The easiest way to ship python applications. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/tusharsadhwani/packaged) (👨‍💻 2 · 🔀 8 · 📥 780 · 📋 11 - 36% open · ⏱️ 28.11.2024):
+
+	```
+	git clone https://github.com/tusharsadhwani/packaged
 	```
 </details>
 <details><summary>Show 4 hidden projects...</summary>
