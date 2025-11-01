@@ -1,6 +1,5 @@
 # Based on https://github.com/best-of-lists/best-of-update-action/blob/v0.8.5/workflows/update-best-of-list.yml
 name: update-best-of-list
-
 on:
   workflow_dispatch:
     inputs:
@@ -9,11 +8,9 @@ on:
         required: false
   schedule:
     - cron: "0 18 * * 4" # Every thursday at 6pm
-
 env:
   BRANCH_PREFIX: "update/"
   DEFAULT_BRANCH: "main"
-
 jobs:
   update-best-of-list:
     runs-on: ubuntu-latest
