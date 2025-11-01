@@ -75,3 +75,7 @@ projects:
     github_id: tusharsadhwani/packaged
     labels: ["written-in-python"]
     category: "miscellaneous"
+  - name: PyCrucible
+    github_id: razorblade23/PyCrucible
+    labels: ["written-in-rust"]
+    category: "miscellaneous"
