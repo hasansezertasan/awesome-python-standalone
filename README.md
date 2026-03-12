@@ -54,7 +54,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <details><summary><b><a href="https://github.com/Nuitka/Nuitka">nuitka</a></b> (🥇30 ·  ⭐ 15K) - Nuitka is a Python compiler written in Python. Its fully.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code> <code><img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/Nuitka/Nuitka) (👨‍💻 200 · 🔀 750 · 📦 3.6K · 📋 2.7K - 6% open · ⏱️ 10.02.2026):
+- [GitHub](https://github.com/Nuitka/Nuitka) (👨‍💻 210 · 🔀 760 · 📦 3.7K · 📋 2.8K - 6% open · ⏱️ 12.03.2026):
 
 	```
 	git clone https://github.com/Nuitka/Nuitka
@@ -62,7 +62,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/pex-tool/pex">pex</a></b> (🥈29 ·  ⭐ 4.2K) - A tool for generating .pex (Python EXecutable) files, lock files and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pex-tool/pex) (👨‍💻 120 · 🔀 300 · 📥 290K · 📋 1.2K - 4% open · ⏱️ 08.02.2026):
+- [GitHub](https://github.com/pex-tool/pex) (👨‍💻 120 · 🔀 300 · 📥 270K · 📋 1.2K - 4% open · ⏱️ 12.03.2026):
 
 	```
 	git clone https://github.com/pex-tool/pex
@@ -70,7 +70,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/beeware/briefcase">briefcase</a></b> (🥈29 ·  ⭐ 3.2K) - Tools to support converting a Python project into a standalone.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/beeware/briefcase) (👨‍💻 200 · 🔀 470 · 📥 1K · 📦 850 · 📋 970 - 17% open · ⏱️ 12.02.2026):
+- [GitHub](https://github.com/beeware/briefcase) (👨‍💻 200 · 🔀 480 · 📥 1.1K · 📦 850 · 📋 990 - 17% open · ⏱️ 09.03.2026):
 
 	```
 	git clone https://github.com/beeware/briefcase
@@ -78,7 +78,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/linkedin/shiv">shiv</a></b> (🥉18 ·  ⭐ 1.9K) - shiv is a command line utility for building fully self contained.. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/linkedin/shiv) (👨‍💻 44 · 🔀 110 · 📥 2.5K · 📋 130 - 37% open · ⏱️ 10.01.2026):
+- [GitHub](https://github.com/linkedin/shiv) (👨‍💻 44 · 🔀 110 · 📥 2.6K · 📋 130 - 37% open · ⏱️ 10.01.2026):
 
 	```
 	git clone https://github.com/linkedin/shiv
@@ -97,9 +97,9 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 - <b><a href="https://github.com/pyinstaller/pyinstaller">pyinstaller</a></b> (🥇39 ·  ⭐ 13K) - Freeze (package) Python programs into stand-alone.. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/indygreg/PyOxidizer">PyOxidizer</a></b> (🥈24 ·  ⭐ 6.1K · 💀) - A modern Python application packaging and distribution.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/marcelotduarte/cx_Freeze">cx_Freeze</a></b> (🥉22 ·  ⭐ 1.5K) - Creates standalone executables from Python scripts with.. <code>❗Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/py2exe/py2exe">py2exe</a></b> (🥉22 ·  ⭐ 990 · 💤) - Create standalone Windows programs from Python code. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/py2exe/py2exe">py2exe</a></b> (🥉22 ·  ⭐ 1K · 💤) - Create standalone Windows programs from Python code. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/ofek/pyapp">pyapp</a></b> (🥉21 ·  ⭐ 1.9K) - Runtime installer for Python applications. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/razorblade23/PyCrucible">PyCrucible</a></b> (🥉15 ·  ⭐ 180) - A robust, cross-platform builder and launcher for Python.. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/razorblade23/PyCrucible">PyCrucible</a></b> (🥉15 ·  ⭐ 190) - A robust, cross-platform builder and launcher for Python.. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/tusharsadhwani/packaged">packaged</a></b> (🥉10 ·  ⭐ 200 · 💀) - The easiest way to ship python applications. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
 </details>
 <br>
