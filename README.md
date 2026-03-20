@@ -62,7 +62,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/pex-tool/pex">pex</a></b> (🥈29 ·  ⭐ 4.2K) - A tool for generating .pex (Python EXecutable) files, lock files and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pex-tool/pex) (👨‍💻 120 · 🔀 300 · 📥 270K · 📋 1.2K - 4% open · ⏱️ 12.03.2026):
+- [GitHub](https://github.com/pex-tool/pex) (👨‍💻 120 · 🔀 300 · 📥 310K · 📋 1.2K - 4% open · ⏱️ 15.03.2026):
 
 	```
 	git clone https://github.com/pex-tool/pex
@@ -70,7 +70,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/beeware/briefcase">briefcase</a></b> (🥈29 ·  ⭐ 3.2K) - Tools to support converting a Python project into a standalone.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/beeware/briefcase) (👨‍💻 200 · 🔀 480 · 📥 1.1K · 📦 850 · 📋 990 - 17% open · ⏱️ 09.03.2026):
+- [GitHub](https://github.com/beeware/briefcase) (👨‍💻 200 · 🔀 470 · 📥 1.1K · 📦 850 · 📋 990 - 16% open · ⏱️ 19.03.2026):
 
 	```
 	git clone https://github.com/beeware/briefcase
@@ -94,7 +94,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary>Show 7 hidden projects...</summary>
 
-- <b><a href="https://github.com/pyinstaller/pyinstaller">pyinstaller</a></b> (🥇39 ·  ⭐ 13K) - Freeze (package) Python programs into stand-alone.. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/pyinstaller/pyinstaller">pyinstaller</a></b> (🥇31 ·  ⭐ 13K · 📉) - Freeze (package) Python programs into stand-alone.. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/indygreg/PyOxidizer">PyOxidizer</a></b> (🥈24 ·  ⭐ 6.1K · 💀) - A modern Python application packaging and distribution.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/marcelotduarte/cx_Freeze">cx_Freeze</a></b> (🥉22 ·  ⭐ 1.5K) - Creates standalone executables from Python scripts with.. <code>❗Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/py2exe/py2exe">py2exe</a></b> (🥉22 ·  ⭐ 1K · 💤) - Create standalone Windows programs from Python code. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
