@@ -1,6 +1,10 @@
 configuration:
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
+  min_projectrank: 0
+  min_stars: 0
+  require_license: false
+  require_repo: false
 
 categories:
   - category: "miscellaneous"
