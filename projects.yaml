@@ -20,6 +20,9 @@ labels:
   - label: "written-in-cpp"
     description: "Written in C++"
     image: "https://isocpp.org/assets/images/cpp_logo.png"
+  - label: "written-in-go"
+    description: "Written in Go"
+    image: "https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"
 
 projects:
   - name: pyinstaller
@@ -78,4 +81,8 @@ projects:
   - name: PyCrucible
     github_id: razorblade23/PyCrucible
     labels: ["written-in-rust"]
+    category: "miscellaneous"
+  - name: uvbox
+    github_id: AmadeusITGroup/uvbox
+    labels: ["written-in-go"]
     category: "miscellaneous"
