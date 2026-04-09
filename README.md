@@ -10,18 +10,18 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-15-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-16-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/hasansezertasan/awesome-python-standalone/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/hasansezertasan/awesome-python-standalone?color=green&label=updated"></a>
 </p>
 
-This curated list contains 15 awesome open-source projects with a total of 49K stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-standalone/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-standalone/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-standalone/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 16 awesome open-source projects with a total of 49K stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-standalone/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-standalone/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-standalone/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
-- [Miscellaneous](#miscellaneous) _12 projects_
+- [Miscellaneous](#miscellaneous) _13 projects_
 - [Others](#others) _3 projects_
 
 ## Explanation
@@ -43,6 +43,7 @@ This curated list contains 15 awesome open-source projects with a total of 49K s
 - <img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13">&nbsp; Written in Python
 - <img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13">&nbsp; Written in Rust
 - <img src="https://isocpp.org/assets/images/cpp_logo.png" style="display:inline;" width="13" height="13">&nbsp; Written in C++
+- <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" style="display:inline;" width="13" height="13">&nbsp; Written in Go
 
 <br>
 
@@ -52,31 +53,63 @@ This curated list contains 15 awesome open-source projects with a total of 49K s
 
 _If you can think of a more appropriate category for the items below, PRs welcome!_
 
+<details><summary><b><a href="https://github.com/pyinstaller/pyinstaller">pyinstaller</a></b> (🥇39 ·  ⭐ 13K) - Freeze (package) Python programs into stand-alone.. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/pyinstaller/pyinstaller) (👨‍💻 490 · 🔀 1.9K · 📥 750K · 📦 88K · 📋 5.6K - 4% open · ⏱️ 06.04.2026):
+
+	```
+	git clone https://github.com/pyinstaller/pyinstaller
+	```
+</details>
 <details><summary><b><a href="https://github.com/Nuitka/Nuitka">nuitka</a></b> (🥇30 ·  ⭐ 15K) - Nuitka is a Python compiler written in Python. Its fully.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code> <code><img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/Nuitka/Nuitka) (👨‍💻 210 · 🔀 760 · 📦 3.7K · 📋 2.8K - 6% open · ⏱️ 25.03.2026):
+- [GitHub](https://github.com/Nuitka/Nuitka) (👨‍💻 210 · 🔀 760 · 📦 3.7K · 📋 2.8K - 6% open · ⏱️ 02.04.2026):
 
 	```
 	git clone https://github.com/Nuitka/Nuitka
 	```
 </details>
-<details><summary><b><a href="https://github.com/pex-tool/pex">pex</a></b> (🥈29 ·  ⭐ 4.2K) - A tool for generating .pex (Python EXecutable) files, lock files and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/beeware/briefcase">briefcase</a></b> (🥇30 ·  ⭐ 3.2K · 📈) - Tools to support converting a Python project into a.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pex-tool/pex) (👨‍💻 130 · 🔀 310 · 📥 350K · 📋 1.2K - 4% open · ⏱️ 24.03.2026):
-
-	```
-	git clone https://github.com/pex-tool/pex
-	```
-</details>
-<details><summary><b><a href="https://github.com/beeware/briefcase">briefcase</a></b> (🥈29 ·  ⭐ 3.2K) - Tools to support converting a Python project into a standalone.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/beeware/briefcase) (👨‍💻 200 · 🔀 480 · 📥 1.1K · 📦 850 · 📋 990 - 16% open · ⏱️ 26.03.2026):
+- [GitHub](https://github.com/beeware/briefcase) (👨‍💻 200 · 🔀 480 · 📥 1.1K · 📦 860 · 📋 1K - 16% open · ⏱️ 09.04.2026):
 
 	```
 	git clone https://github.com/beeware/briefcase
 	```
 </details>
-<details><summary><b><a href="https://github.com/linkedin/shiv">shiv</a></b> (🥉18 ·  ⭐ 1.9K) - shiv is a command line utility for building fully self contained.. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/pex-tool/pex">pex</a></b> (🥈29 ·  ⭐ 4.2K) - A tool for generating .pex (Python EXecutable) files, lock files and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/pex-tool/pex) (👨‍💻 130 · 🔀 300 · 📥 300K · 📋 1.2K - 4% open · ⏱️ 09.04.2026):
+
+	```
+	git clone https://github.com/pex-tool/pex
+	```
+</details>
+<details><summary><b><a href="https://github.com/marcelotduarte/cx_Freeze">cx_Freeze</a></b> (🥉22 ·  ⭐ 1.5K) - Creates standalone executables from Python scripts with.. <code>❗Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/marcelotduarte/cx_Freeze) (👨‍💻 120 · 🔀 240 · 📋 1.1K - 3% open · ⏱️ 05.04.2026):
+
+	```
+	git clone https://github.com/marcelotduarte/cx_Freeze
+	```
+</details>
+<details><summary><b><a href="https://github.com/py2exe/py2exe">py2exe</a></b> (🥉22 ·  ⭐ 990 · 💤) - Create standalone Windows programs from Python code. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/py2exe/py2exe) (👨‍💻 24 · 🔀 110 · 📥 25K · 📦 2.2K · 📋 190 - 11% open · ⏱️ 15.07.2025):
+
+	```
+	git clone https://github.com/py2exe/py2exe
+	```
+</details>
+<details><summary><b><a href="https://github.com/ofek/pyapp">pyapp</a></b> (🥉20 ·  ⭐ 2K · 📉) - Runtime installer for Python applications. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/ofek/pyapp) (👨‍💻 12 · 🔀 56 · 📥 110K · 📦 63 · 📋 68 - 39% open · ⏱️ 15.10.2025):
+
+	```
+	git clone https://github.com/ofek/pyapp
+	```
+</details>
+<details><summary><b><a href="https://github.com/linkedin/shiv">shiv</a></b> (🥉17 ·  ⭐ 1.9K · 📉) - shiv is a command line utility for building fully self contained.. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/linkedin/shiv) (👨‍💻 44 · 🔀 110 · 📥 2.6K · 📋 130 - 37% open · ⏱️ 10.01.2026):
 
@@ -92,14 +125,25 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 	git clone https://github.com/skywind3000/PyStand
 	```
 </details>
-<details><summary>Show 7 hidden projects...</summary>
+<details><summary><b><a href="https://github.com/razorblade23/PyCrucible">PyCrucible</a></b> (🥉15 ·  ⭐ 190) - A robust, cross-platform builder and launcher for Python.. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- <b><a href="https://github.com/pyinstaller/pyinstaller">pyinstaller</a></b> (🥇39 ·  ⭐ 13K · 📈) - Freeze (package) Python programs into stand-alone.. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code>
+- [GitHub](https://github.com/razorblade23/PyCrucible) (👨‍💻 4 · 🔀 6 · 📥 310 · 📦 2 · 📋 35 - 20% open · ⏱️ 22.03.2026):
+
+	```
+	git clone https://github.com/razorblade23/PyCrucible
+	```
+</details>
+<details><summary><b><a href="https://github.com/AmadeusITGroup/uvbox">uvbox</a></b> (🥉8 ·  ⭐ 50 · ➕) - Fast, simple and cross-platform Python application packaging. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/AmadeusITGroup/uvbox) (👨‍💻 2 · 🔀 2 · 📥 210 · 📋 6 - 50% open · ⏱️ 09.01.2026):
+
+	```
+	git clone https://github.com/AmadeusITGroup/uvbox
+	```
+</details>
+<details><summary>Show 2 hidden projects...</summary>
+
 - <b><a href="https://github.com/indygreg/PyOxidizer">PyOxidizer</a></b> (🥈24 ·  ⭐ 6.1K · 💀) - A modern Python application packaging and distribution.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/marcelotduarte/cx_Freeze">cx_Freeze</a></b> (🥉22 ·  ⭐ 1.5K) - Creates standalone executables from Python scripts with.. <code>❗Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/py2exe/py2exe">py2exe</a></b> (🥉22 ·  ⭐ 1K · 💤) - Create standalone Windows programs from Python code. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/ofek/pyapp">pyapp</a></b> (🥉21 ·  ⭐ 2K) - Runtime installer for Python applications. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/razorblade23/PyCrucible">PyCrucible</a></b> (🥉15 ·  ⭐ 190) - A robust, cross-platform builder and launcher for Python.. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/tusharsadhwani/packaged">packaged</a></b> (🥉10 ·  ⭐ 200 · 💀) - The easiest way to ship python applications. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
 </details>
 <br>
