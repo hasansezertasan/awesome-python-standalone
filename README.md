@@ -55,7 +55,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <details><summary><b><a href="https://github.com/pyinstaller/pyinstaller">pyinstaller</a></b> (🥇39 ·  ⭐ 13K) - Freeze (package) Python programs into stand-alone.. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pyinstaller/pyinstaller) (👨‍💻 490 · 🔀 1.9K · 📥 750K · 📦 88K · 📋 5.6K - 4% open · ⏱️ 26.04.2026):
+- [GitHub](https://github.com/pyinstaller/pyinstaller) (👨‍💻 490 · 🔀 1.9K · 📥 750K · 📦 88K · 📋 5.6K - 4% open · ⏱️ 10.05.2026):
 
 	```
 	git clone https://github.com/pyinstaller/pyinstaller
@@ -63,7 +63,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/Nuitka/Nuitka">nuitka</a></b> (🥇30 ·  ⭐ 15K) - Nuitka is a Python compiler written in Python. Its fully.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code> <code><img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/Nuitka/Nuitka) (👨‍💻 210 · 🔀 760 · 📦 3.8K · 📋 2.8K - 6% open · ⏱️ 06.05.2026):
+- [GitHub](https://github.com/Nuitka/Nuitka) (👨‍💻 210 · 🔀 760 · 📦 3.8K · 📋 2.8K - 5% open · ⏱️ 14.05.2026):
 
 	```
 	git clone https://github.com/Nuitka/Nuitka
@@ -71,15 +71,15 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/beeware/briefcase">briefcase</a></b> (🥇30 ·  ⭐ 3.3K) - Tools to support converting a Python project into a standalone.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/beeware/briefcase) (👨‍💻 200 · 🔀 480 · 📥 1.2K · 📦 860 · 📋 1K - 16% open · ⏱️ 06.05.2026):
+- [GitHub](https://github.com/beeware/briefcase) (👨‍💻 200 · 🔀 480 · 📥 1.2K · 📦 860 · 📋 1K - 16% open · ⏱️ 14.05.2026):
 
 	```
 	git clone https://github.com/beeware/briefcase
 	```
 </details>
-<details><summary><b><a href="https://github.com/pex-tool/pex">pex</a></b> (🥈29 ·  ⭐ 4.2K · 📈) - A tool for generating .pex (Python EXecutable) files, lock files.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/pex-tool/pex">pex</a></b> (🥈29 ·  ⭐ 4.2K) - A tool for generating .pex (Python EXecutable) files, lock files and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pex-tool/pex) (👨‍💻 130 · 🔀 310 · 📥 530K · 📋 1.2K - 4% open · ⏱️ 05.05.2026):
+- [GitHub](https://github.com/pex-tool/pex) (👨‍💻 130 · 🔀 310 · 📥 610K · 📋 1.2K - 4% open · ⏱️ 12.05.2026):
 
 	```
 	git clone https://github.com/pex-tool/pex
@@ -87,7 +87,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/marcelotduarte/cx_Freeze">cx_Freeze</a></b> (🥉22 ·  ⭐ 1.5K) - Creates standalone executables from Python scripts with.. <code>❗Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/marcelotduarte/cx_Freeze) (👨‍💻 120 · 🔀 240 · 📋 1.1K - 3% open · ⏱️ 04.05.2026):
+- [GitHub](https://github.com/marcelotduarte/cx_Freeze) (👨‍💻 120 · 🔀 240 · 📋 1.1K - 3% open · ⏱️ 11.05.2026):
 
 	```
 	git clone https://github.com/marcelotduarte/cx_Freeze
@@ -127,7 +127,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/AmadeusITGroup/uvbox">uvbox</a></b> (🥉12 ·  ⭐ 52) - Fast, simple and cross-platform Python application packaging. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/AmadeusITGroup/uvbox) (👨‍💻 3 · 🔀 2 · 📥 260 · 📋 6 - 33% open · ⏱️ 20.04.2026):
+- [GitHub](https://github.com/AmadeusITGroup/uvbox) (👨‍💻 3 · 🔀 2 · 📥 270 · 📋 6 - 33% open · ⏱️ 20.04.2026):
 
 	```
 	git clone https://github.com/AmadeusITGroup/uvbox
