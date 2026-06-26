@@ -244,3 +244,8 @@ projects:
     github_id: zsquareplusc/python-embedded-launcher
     labels: ["written-in-c", "written-in-python"]
     category: "freezers"
+  - name: dmgbuild
+    github_id: dmgbuild/dmgbuild
+    pypi_id: dmgbuild
+    labels: ["written-in-python"]
+    category: "miscellaneous"
