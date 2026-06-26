@@ -103,3 +103,6 @@ projects:
     github_id: AmadeusITGroup/uvbox
     labels: ["written-in-go"]
     category: "launchers"
+  - name: "How do I ship a Python application to end users?"
+    homepage: "https://pydevtools.com/handbook/explanation/how-do-i-ship-a-python-application-to-end-users/"
+    resource: True
