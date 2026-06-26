@@ -197,3 +197,8 @@ projects:
     pypi_id: zipapps
     labels: ["written-in-python"]
     category: "zipapps"
+  - name: stickytape
+    github_id: mwilliamson/stickytape
+    pypi_id: stickytape
+    labels: ["written-in-python"]
+    category: "miscellaneous"
