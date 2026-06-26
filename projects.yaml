@@ -253,3 +253,8 @@ projects:
     github_id: jpakkane/msicreator
     labels: ["written-in-python"]
     category: "miscellaneous"
+  - name: macOS-Pkg-Builder
+    github_id: ripeda/macOS-Pkg-Builder
+    pypi_id: macos-pkg-builder
+    labels: ["written-in-python"]
+    category: "miscellaneous"
