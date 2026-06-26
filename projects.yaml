@@ -235,3 +235,8 @@ projects:
     github_id: gregneagle/relocatable-python
     labels: ["written-in-python"]
     category: "miscellaneous"
+  - name: pyship
+    github_id: jamesabel/pyship
+    pypi_id: pyship
+    labels: ["written-in-python"]
+    category: "freezers"
