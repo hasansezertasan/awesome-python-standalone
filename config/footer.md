@@ -1,6 +1,17 @@
 
 ---
 
+## What qualifies as a standalone Python tool?
+
+To be listed here, a project must help package or distribute a Python application so it runs on a target machine **without the user manually installing Python or its dependencies**. Tools generally take one of these routes:
+
+- **Bundle** the interpreter and dependencies into a self-contained artifact (freezers).
+- **Bootstrap** Python on first run, typically via a small downloader (launchers).
+- **Compile** Python to C or native machine code (compilers).
+- **Package** the app as an executable archive that runs against an existing interpreter (zipapps).
+
+If a project only manages virtual environments or installs packages for development — without producing something shippable to an end user — it likely belongs on a traditional best-of list, not this one.
+
 ## Related Resources
 
 - [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
