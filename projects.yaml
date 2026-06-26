@@ -281,3 +281,7 @@ projects:
     pypi_id: pyportable-installer
     labels: ["written-in-python"]
     category: "freezers"
+  - name: RustPython
+    github_id: RustPython/RustPython
+    labels: ["written-in-rust"]
+    category: "freezers"
