@@ -111,3 +111,36 @@ projects:
     pypi_id: fbs
     labels: ["written-in-python"]
     category: "freezers"
+  - name: cosmofy
+    github_id: metaist/cosmofy
+    pypi_id: cosmofy
+    labels: ["written-in-python"]
+    category: "freezers"
+  - name: py-app-standalone
+    github_id: jlevy/py-app-standalone
+    pypi_id: py-app-standalone
+    labels: ["written-in-python"]
+    category: "freezers"
+  - name: portable-python
+    github_id: bjia56/portable-python
+    labels: ["written-in-python"]
+    category: "miscellaneous"
+  - name: WinPython
+    github_id: winpython/winpython
+    labels: ["written-in-python"]
+    category: "miscellaneous"
+  - name: XAR
+    github_id: facebookincubator/xar
+    pypi_id: xar
+    labels: ["written-in-python"]
+    category: "miscellaneous"
+  - name: staticx
+    github_id: JonathonReinhart/staticx
+    pypi_id: staticx
+    labels: ["written-in-c", "written-in-python"]
+    category: "freezers"
+  - name: py2wasm
+    github_id: wasmerio/py2wasm
+    pypi_id: py2wasm
+    labels: ["written-in-python"]
+    category: "compilers"
