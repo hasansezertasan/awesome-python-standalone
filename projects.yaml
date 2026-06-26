@@ -207,3 +207,8 @@ projects:
     pypi_id: pyempaq
     labels: ["written-in-python"]
     category: "zipapps"
+  - name: pinliner
+    github_id: Akrog/pinliner
+    pypi_id: pinliner
+    labels: ["written-in-python"]
+    category: "miscellaneous"
