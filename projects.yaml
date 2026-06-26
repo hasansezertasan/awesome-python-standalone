@@ -183,3 +183,7 @@ projects:
     pypi_id: py2wasm
     labels: ["written-in-python"]
     category: "compilers"
+  - name: pyflow
+    github_id: David-OConnor/pyflow
+    labels: ["written-in-rust"]
+    category: "launchers"
