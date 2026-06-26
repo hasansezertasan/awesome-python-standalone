@@ -263,3 +263,8 @@ projects:
     pypi_id: make-deb
     labels: ["written-in-python"]
     category: "miscellaneous"
+  - name: pymakeself
+    github_id: gammazero/pymakeself
+    pypi_id: pymakeself
+    labels: ["written-in-python"]
+    category: "miscellaneous"
