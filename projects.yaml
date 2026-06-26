@@ -111,3 +111,8 @@ projects:
     pypi_id: staticx
     labels: ["written-in-c", "written-in-python"]
     category: "freezers"
+  - name: py2wasm
+    github_id: wasmerio/py2wasm
+    pypi_id: py2wasm
+    labels: ["written-in-python"]
+    category: "compilers"
