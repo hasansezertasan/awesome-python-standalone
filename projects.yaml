@@ -271,3 +271,8 @@ projects:
   - name: Platypus
     github_id: sveinbjornt/Platypus
     category: "miscellaneous"
+  - name: bbfreeze
+    github_id: schmir/bbfreeze
+    pypi_id: bbfreeze
+    labels: ["written-in-python"]
+    category: "freezers"
