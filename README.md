@@ -10,23 +10,29 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-16-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-32-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/hasansezertasan/awesome-python-standalone/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/hasansezertasan/awesome-python-standalone?color=green&label=updated"></a>
 </p>
 
-This curated list contains 16 awesome open-source projects with a total of 50K stars grouped into 5 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-standalone/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-standalone/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-standalone/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 32 awesome open-source projects with a total of 63K stars grouped into 5 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-standalone/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-standalone/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-standalone/edit/main/projects.yaml). Contributions are very welcome!
+
+## What is a standalone Python application?
+
+A **standalone Python application** runs on an end user's machine without asking them to install Python or any dependencies first. Instead of "set up a virtual environment, `pip install`, and hope the right interpreter is on the `PATH`," you hand over a single executable, archive, or installer that just works.
+
+The tools below take different routes to get there — bundling the interpreter, downloading it on first run, or compiling to native code — each trading off artifact size, build time, and whether the target needs an internet connection or a pre-installed Python.
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
 - [Launchers](#launchers) _3 projects_
-- [Freezers](#freezers) _7 projects_
-- [Compilers](#compilers) _1 projects_
+- [Freezers](#freezers) _17 projects_
+- [Compilers](#compilers) _2 projects_
 - [Zipapps](#zipapps) _2 projects_
-- [Miscellaneous](#miscellaneous) _0 projects_
-- [Others](#others) _3 projects_
+- [Miscellaneous](#miscellaneous) _4 projects_
+- [Others](#others) _4 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -97,12 +103,24 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 	git clone https://github.com/pyinstaller/pyinstaller
 	```
 </details>
-<details><summary><b><a href="https://github.com/beeware/briefcase">briefcase</a></b> (🥈30 ·  ⭐ 3.3K) - Tools to support converting a Python project into a standalone.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/beeware/briefcase">briefcase</a></b> (🥇30 ·  ⭐ 3.3K) - Tools to support converting a Python project into a standalone.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/beeware/briefcase) (👨‍💻 210 · 🔀 520 · 📥 1.2K · 📦 870 · 📋 1K - 15% open · ⏱️ 26.06.2026):
 
 	```
 	git clone https://github.com/beeware/briefcase
+	```
+</details>
+<details><summary><b><a href="https://github.com/ronaldoussoren/py2app">py2app</a></b> (🥈26 ·  ⭐ 420 · ➕) - py2app is a Python setuptools command which will allow.. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/ronaldoussoren/py2app) (👨‍💻 31 · 🔀 44 · 📦 5.6K · 📋 520 - 39% open · ⏱️ 26.05.2026):
+
+	```
+	git clone https://github.com/ronaldoussoren/py2app
+	```
+- [PyPi](https://pypi.org/project/py2app) (📥 63K / month):
+	```
+	pip install py2app
 	```
 </details>
 <details><summary><b><a href="https://github.com/py2exe/py2exe">py2exe</a></b> (🥈25 ·  ⭐ 990) - Create standalone Windows programs from Python code. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
@@ -113,6 +131,30 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 	git clone https://github.com/py2exe/py2exe
 	```
 </details>
+<details><summary><b><a href="https://github.com/conda/constructor">constructor</a></b> (🥈25 ·  ⭐ 500 · ➕) - tool for creating installers from conda packages. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/conda/constructor) (👨‍💻 80 · 🔀 170 · 📥 290 · 📦 27 · 📋 450 - 8% open · ⏱️ 22.06.2026):
+
+	```
+	git clone https://github.com/conda/constructor
+	```
+- [PyPi](https://pypi.org/project/constructor) (📥 230 / month):
+	```
+	pip install constructor
+	```
+</details>
+<details><summary><b><a href="https://github.com/JonathonReinhart/staticx">staticx</a></b> (🥉23 ·  ⭐ 420 · ➕) - Create static executable from dynamic executable. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/JonathonReinhart/staticx) (👨‍💻 6 · 🔀 44 · 📥 260 · 📦 170 · 📋 170 - 31% open · ⏱️ 06.05.2026):
+
+	```
+	git clone https://github.com/JonathonReinhart/staticx
+	```
+- [PyPi](https://pypi.org/project/staticx) (📥 50K / month):
+	```
+	pip install staticx
+	```
+</details>
 <details><summary><b><a href="https://github.com/marcelotduarte/cx_Freeze">cx_Freeze</a></b> (🥉22 ·  ⭐ 1.6K) - Creates standalone executables from Python scripts with.. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/marcelotduarte/cx_Freeze) (👨‍💻 120 · 🔀 240 · 📋 1.1K - 3% open · ⏱️ 21.06.2026):
@@ -121,11 +163,40 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 	git clone https://github.com/marcelotduarte/cx_Freeze
 	```
 </details>
-<details><summary>Show 3 hidden projects...</summary>
+<details><summary><b><a href="https://github.com/pytauri/pytauri">PyTauri</a></b> (🥉22 ·  ⭐ 1.4K · 💤) - Tauri binding for Python through Pyo3. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- <b><a href="https://github.com/indygreg/PyOxidizer">PyOxidizer</a></b> (🥉24 ·  ⭐ 6.1K · 💀) - A modern Python application packaging and distribution.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="display:inline;" width="13" height="13"></code>
+- [GitHub](https://github.com/pytauri/pytauri) (👨‍💻 5 · 🔀 27 · 📥 710 · 📦 15 · 📋 50 - 26% open · ⏱️ 10.09.2025):
+
+	```
+	git clone https://github.com/pytauri/pytauri
+	```
+- [PyPi](https://pypi.org/project/pytauri) (📥 9.3K / month):
+	```
+	pip install pytauri
+	```
+</details>
+<details><summary><b><a href="https://github.com/metaist/cosmofy">cosmofy</a></b> (🥉11 ·  ⭐ 110 · ➕) - Cosmopolitan Python Bundler. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/metaist/cosmofy) (🔀 1 · 📥 170 · 📦 2 · 📋 120 - 2% open · ⏱️ 13.01.2026):
+
+	```
+	git clone https://github.com/metaist/cosmofy
+	```
+- [PyPi](https://pypi.org/project/cosmofy) (📥 93 / month):
+	```
+	pip install cosmofy
+	```
+</details>
+<details><summary>Show 8 hidden projects...</summary>
+
+- <b><a href="https://github.com/mherrmann/fbs">fbs</a></b> (🥈25 ·  ⭐ 3.9K · 💀) - Create Python GUIs with Qt in minutes. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/indygreg/PyOxidizer">PyOxidizer</a></b> (🥈24 ·  ⭐ 6.1K · 💀) - A modern Python application packaging and distribution.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/takluyver/pynsist">pynsist</a></b> (🥉20 ·  ⭐ 990 · 💀) - Build Windows installers for Python applications. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/skywind3000/PyStand">PyStand</a></b> (🥉16 ·  ⭐ 1.2K · 💀) - Python Standalone Deploy Environment !!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/tusharsadhwani/packaged">packaged</a></b> (🥉10 ·  ⭐ 200 · 💀) - The easiest way to ship python applications. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/jlevy/py-app-standalone">py-app-standalone</a></b> (🥉10 ·  ⭐ 53 · 💀) - Standalone, relocatable Python app installs with uv. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/mbachry/exxo">exxo</a></b> (🥉9 ·  ⭐ 460 · 💀) - Build portable Python binaries. <code><a href="http://bit.ly/3hkKRql">ISC</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/joaompinto/py2static">py2static</a></b> (🥉5 ·  ⭐ 3 · 💀) - Build Linux static binaries from Python scripts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code>
 </details>
 <br>
 
@@ -142,6 +213,10 @@ _Compile Python to C or machine code for performance and obfuscation. Fully stan
 	```
 	git clone https://github.com/Nuitka/Nuitka
 	```
+</details>
+<details><summary>Show 1 hidden projects...</summary>
+
+- <b><a href="https://github.com/wasmerio/py2wasm">py2wasm</a></b> (🥉16 ·  ⭐ 230 · 💀) - Nuitka is a Python compiler written in Python. Its fully.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code>
 </details>
 <br>
 
@@ -175,6 +250,38 @@ _Package the application as an executable zip archive. Requires Python to alread
 
 _If you can think of a more appropriate category for the items below, PRs welcome!_
 
+<details><summary><b><a href="https://github.com/conda/conda-pack">conda-pack</a></b> (🥇31 ·  ⭐ 570 · ➕) - Package conda environments for redistribution. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/conda/conda-pack) (👨‍💻 42 · 🔀 98 · 📦 3.9K · 📋 180 - 7% open · ⏱️ 23.06.2026):
+
+	```
+	git clone https://github.com/conda/conda-pack
+	```
+- [PyPi](https://pypi.org/project/conda-pack) (📥 150K / month):
+	```
+	pip install conda-pack
+	```
+</details>
+<details><summary><b><a href="https://github.com/winpython/winpython">WinPython</a></b> (🥈26 ·  ⭐ 2.3K · ➕) - A free Python-distribution for Windows platform, including.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/winpython/winpython) (👨‍💻 25 · 🔀 350 · 📥 130K · 📋 690 - 11% open · ⏱️ 21.06.2026):
+
+	```
+	git clone https://github.com/winpython/winpython
+	```
+</details>
+<details><summary><b><a href="https://github.com/bjia56/portable-python">portable-python</a></b> (🥉14 ·  ⭐ 83 · ➕) - Portable Python binaries. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/bjia56/portable-python) (👨‍💻 4 · 🔀 6 · 📥 19K · 📦 11 · ⏱️ 10.03.2026):
+
+	```
+	git clone https://github.com/bjia56/portable-python
+	```
+</details>
+<details><summary>Show 1 hidden projects...</summary>
+
+- <b><a href="https://github.com/facebookincubator/xar">XAR</a></b> (🥉17 ·  ⭐ 1.6K · 💀) - executable archive format. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code>
+</details>
 <br>
 
 ## Others
@@ -187,8 +294,21 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 🔗&nbsp;<b><a href="https://www.youtube.com/watch?v=xiwdz2LAtGc">How to use the Python embeddable redistribution to make standalone apps</a></b>  
 
+🔗&nbsp;<b><a href="https://pydevtools.com/handbook/explanation/how-do-i-ship-a-python-application-to-end-users/">How do I ship a Python application to end users?</a></b>  
+
 
 ---
+
+## What qualifies as a standalone Python tool?
+
+To be listed here, a project must help package or distribute a Python application so it runs on a target machine **without the user manually installing Python or its dependencies**. Tools generally take one of these routes:
+
+- **Bundle** the interpreter and dependencies into a self-contained artifact (freezers).
+- **Bootstrap** Python on first run, typically via a small downloader (launchers).
+- **Compile** Python to C or native machine code (compilers).
+- **Package** the app as an executable archive that runs against an existing interpreter (zipapps).
+
+If a project only manages virtual environments or installs packages for development — without producing something shippable to an end user — it likely belongs on a traditional best-of list, not this one.
 
 ## Related Resources
 
