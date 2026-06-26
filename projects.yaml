@@ -108,5 +108,5 @@ projects:
     resource: True
   - name: python-build-standalone
     github_id: astral-sh/python-build-standalone
-    labels: ["written-in-python"]
+    labels: ["written-in-python", "written-in-rust"]
     category: "miscellaneous"
