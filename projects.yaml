@@ -226,4 +226,8 @@ projects:
     pypi_id: pyfuze
     labels: ["written-in-python", "written-in-c"]
     category: "freezers"
+  - name: python-appimage
+    github_id: niess/python-appimage
+    pypi_id: python-appimage
+    labels: ["written-in-python"]
     category: "freezers"
