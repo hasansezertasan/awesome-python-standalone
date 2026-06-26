@@ -7,6 +7,18 @@ configuration:
   require_repo: false
 
 categories:
+  - category: "launchers"
+    title: "Launchers"
+    subtitle: "Small bootstrap binaries that download Python and dependencies on first run (typically via uv). Tiny artifact, but requires internet access the first time it runs."
+  - category: "freezers"
+    title: "Freezers"
+    subtitle: "Bundle the Python interpreter and dependencies into a self-contained package. Fully offline, larger artifact, no Python required on the target."
+  - category: "compilers"
+    title: "Compilers"
+    subtitle: "Compile Python to C or machine code for performance and obfuscation. Fully standalone, slowest to build."
+  - category: "zipapps"
+    title: "Zipapps"
+    subtitle: "Package the application as an executable zip archive. Requires Python to already be installed on the target — best for internal/dev distribution."
   - category: "miscellaneous"
     title: "Miscellaneous"
     subtitle: "If you can think of a more appropriate category for the items below, PRs welcome!"
@@ -14,91 +26,91 @@ categories:
 labels:
   - label: "written-in-c"
     description: "Written in C"
-    image: "https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png"
+    image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
   - label: "written-in-python"
     description: "Written in Python"
-    image: "https://www.python.org/static/favicon.ico"
+    image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
   - label: "written-in-rust"
     description: "Written in Rust"
-    image: "https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png"
+    image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg"
   - label: "written-in-cpp"
     description: "Written in C++"
-    image: "https://isocpp.org/assets/images/cpp_logo.png"
+    image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
   - label: "written-in-go"
     description: "Written in Go"
-    image: "https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"
+    image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"
 
 projects:
   - name: pyinstaller
     github_id: pyinstaller/pyinstaller
     labels: ["written-in-c"]
-    category: "miscellaneous"
+    category: "freezers"
   - name: briefcase
     github_id: beeware/briefcase
     labels: ["written-in-python"]
-    category: "miscellaneous"
+    category: "freezers"
   - name: pyapp
     github_id: ofek/pyapp
     labels: ["written-in-rust"]
-    category: "miscellaneous"
+    category: "launchers"
   - name: PyOxidizer
     github_id: indygreg/PyOxidizer
     labels: ["written-in-rust"]
-    category: "miscellaneous"
+    category: "freezers"
   - name: py2exe
     github_id: py2exe/py2exe
     labels: ["written-in-c", "written-in-python"]
-    category: "miscellaneous"
+    category: "freezers"
   - name: shiv
     github_id: linkedin/shiv
     labels: ["written-in-python"]
-    category: "miscellaneous"
+    category: "zipapps"
   - name: pex
     github_id: pex-tool/pex
     labels: ["written-in-python"]
-    category: "miscellaneous"
+    category: "zipapps"
   - name: "zipapp — Manage executable Python zip archives"
     homepage: "https://docs.python.org/3/library/zipapp.html"
     resource: True
   - name: PyStand
     github_id: skywind3000/PyStand
     labels: ["written-in-cpp"]
-    category: "miscellaneous"
+    category: "freezers"
   - name: "Why it's so hard to redistribute standalone Python apps"
     homepage: "https://www.youtube.com/watch?v=3BfGAYfKZIg"
     resource: True
   - name: nuitka
     github_id: Nuitka/Nuitka
     labels: ["written-in-c", "written-in-python"]
-    category: "miscellaneous"
+    category: "compilers"
   - name: cx_Freeze
     github_id: marcelotduarte/cx_Freeze
     labels: ["written-in-python"]
-    category: "miscellaneous"
+    category: "freezers"
   - name: "How to use the Python embeddable redistribution to make standalone apps"
     homepage: "https://www.youtube.com/watch?v=xiwdz2LAtGc"
     resource: True
   - name: packaged
     github_id: tusharsadhwani/packaged
     labels: ["written-in-python"]
-    category: "miscellaneous"
+    category: "freezers"
   - name: PyCrucible
     github_id: razorblade23/PyCrucible
     labels: ["written-in-rust"]
-    category: "miscellaneous"
+    category: "launchers"
   - name: uvbox
     github_id: AmadeusITGroup/uvbox
     labels: ["written-in-go"]
-    category: "miscellaneous"
+    category: "launchers"
   - name: Codon
     github_id: exaloop/codon
     labels: ["written-in-cpp"]
-    category: "miscellaneous"
+    category: "compilers"
   - name: Cython
     github_id: cython/cython
     pypi_id: Cython
     labels: ["written-in-c", "written-in-python"]
-    category: "miscellaneous"
+    category: "compilers"
   - name: python-build-standalone
     github_id: astral-sh/python-build-standalone
     labels: ["written-in-python"]
@@ -107,17 +119,17 @@ projects:
     github_id: pytauri/pytauri
     pypi_id: pytauri
     labels: ["written-in-rust"]
-    category: "miscellaneous"
+    category: "freezers"
   - name: pynsist
     github_id: takluyver/pynsist
     pypi_id: pynsist
     labels: ["written-in-python"]
-    category: "miscellaneous"
+    category: "freezers"
   - name: py2app
     github_id: ronaldoussoren/py2app
     pypi_id: py2app
     labels: ["written-in-python"]
-    category: "miscellaneous"
+    category: "freezers"
   - name: conda-pack
     github_id: conda/conda-pack
     pypi_id: conda-pack
@@ -127,35 +139,35 @@ projects:
     github_id: conda/constructor
     pypi_id: constructor
     labels: ["written-in-python"]
-    category: "miscellaneous"
+    category: "freezers"
   - name: staticx
     github_id: JonathonReinhart/staticx
     pypi_id: staticx
     labels: ["written-in-c", "written-in-python"]
-    category: "miscellaneous"
+    category: "freezers"
   - name: XAR
     github_id: facebookincubator/xar
     pypi_id: xar
     labels: ["written-in-python"]
-    category: "miscellaneous"
+    category: "freezers"
   - name: mypyc
     github_id: python/mypy
     labels: ["written-in-python"]
-    category: "miscellaneous"
+    category: "compilers"
   - name: py2wasm
     github_id: wasmerio/py2wasm
     pypi_id: py2wasm
     labels: ["written-in-python"]
-    category: "miscellaneous"
+    category: "compilers"
   - name: exxo
     github_id: mbachry/exxo
     labels: ["written-in-python"]
-    category: "miscellaneous"
+    category: "freezers"
   - name: cosmofy
     github_id: metaist/cosmofy
     pypi_id: cosmofy
     labels: ["written-in-python"]
-    category: "miscellaneous"
+    category: "freezers"
   - name: portable-python
     github_id: bjia56/portable-python
     pypi_id: portable-python
@@ -170,14 +182,14 @@ projects:
     github_id: mherrmann/fbs
     pypi_id: fbs
     labels: ["written-in-python"]
-    category: "miscellaneous"
+    category: "freezers"
   - name: py2static
     github_id: joaompinto/py2static
     pypi_id: py2static
     labels: ["written-in-python"]
-    category: "miscellaneous"
+    category: "freezers"
   - name: py-app-standalone
     github_id: jlevy/py-app-standalone
     pypi_id: py-app-standalone
     labels: ["written-in-python"]
-    category: "miscellaneous"
+    category: "launchers"
