@@ -187,3 +187,8 @@ projects:
     github_id: exaloop/codon
     labels: ["written-in-cpp"]
     category: "compilers"
+  - name: auto-py-to-exe
+    github_id: brentvollebregt/auto-py-to-exe
+    pypi_id: auto-py-to-exe
+    labels: ["written-in-python"]
+    category: "freezers"
