@@ -17,4 +17,10 @@
 
 This curated list contains {project_count} awesome open-source projects with a total of {stars_count} stars grouped into {category_count} categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-standalone/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-standalone/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-standalone/edit/main/projects.yaml). Contributions are very welcome!
 
+## What is a standalone Python application?
+
+A **standalone Python application** runs on an end user's machine without asking them to install Python or any dependencies first. Instead of "set up a virtual environment, `pip install`, and hope the right interpreter is on the `PATH`," you hand over a single executable, archive, or installer that just works.
+
+The tools below take different routes to get there — bundling the interpreter, downloading it on first run, or compiling to native code — each trading off artifact size, build time, and whether the target needs an internet connection or a pre-installed Python.
+
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
