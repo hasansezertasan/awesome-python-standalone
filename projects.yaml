@@ -110,4 +110,4 @@ projects:
     github_id: facebookincubator/xar
     pypi_id: xar
     labels: ["written-in-python"]
-    category: "freezers"
+    category: "miscellaneous"
