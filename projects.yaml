@@ -276,3 +276,8 @@ projects:
     pypi_id: bbfreeze
     labels: ["written-in-python"]
     category: "freezers"
+  - name: pyportable-installer
+    github_id: likianta/pyportable-installer
+    pypi_id: pyportable-installer
+    labels: ["written-in-python"]
+    category: "freezers"
