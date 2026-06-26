@@ -240,3 +240,7 @@ projects:
     pypi_id: pyship
     labels: ["written-in-python"]
     category: "freezers"
+  - name: python-embedded-launcher
+    github_id: zsquareplusc/python-embedded-launcher
+    labels: ["written-in-c", "written-in-python"]
+    category: "freezers"
