@@ -106,3 +106,8 @@ projects:
   - name: "How do I ship a Python application to end users?"
     homepage: "https://pydevtools.com/handbook/explanation/how-do-i-ship-a-python-application-to-end-users/"
     resource: True
+  - name: staticx
+    github_id: JonathonReinhart/staticx
+    pypi_id: staticx
+    labels: ["written-in-c", "written-in-python"]
+    category: "freezers"
