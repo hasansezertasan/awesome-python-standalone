@@ -5,6 +5,7 @@ configuration:
   min_stars: 0
   require_license: false
   require_repo: false
+  projects_per_category: 9999  # Show all projects per category (no "Show N hidden projects..." collapse)
 
 categories:
   - category: "launchers"
