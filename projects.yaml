@@ -216,3 +216,8 @@ projects:
     github_id: shedskin/shedskin
     labels: ["written-in-python"]
     category: "compilers"
+  - name: pyqtdeploy
+    github_id: Python-PyQt/pyqtdeploy
+    pypi_id: pyqtdeploy
+    labels: ["written-in-python"]
+    category: "freezers"
