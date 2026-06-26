@@ -183,3 +183,7 @@ projects:
     pypi_id: py2wasm
     labels: ["written-in-python"]
     category: "compilers"
+  - name: Codon
+    github_id: exaloop/codon
+    labels: ["written-in-cpp"]
+    category: "compilers"
