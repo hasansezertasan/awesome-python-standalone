@@ -221,3 +221,9 @@ projects:
     pypi_id: pyqtdeploy
     labels: ["written-in-python"]
     category: "freezers"
+  - name: pyfuze
+    github_id: TanixLu/pyfuze
+    pypi_id: pyfuze
+    labels: ["written-in-python", "written-in-c"]
+    category: "freezers"
+    category: "freezers"
