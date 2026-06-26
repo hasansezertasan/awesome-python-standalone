@@ -106,3 +106,8 @@ projects:
   - name: "How do I ship a Python application to end users?"
     homepage: "https://pydevtools.com/handbook/explanation/how-do-i-ship-a-python-application-to-end-users/"
     resource: True
+  - name: conda-pack
+    github_id: conda/conda-pack
+    pypi_id: conda-pack
+    labels: ["written-in-python"]
+    category: "miscellaneous"
