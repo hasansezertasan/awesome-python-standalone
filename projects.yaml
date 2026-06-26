@@ -103,15 +103,6 @@ projects:
     github_id: AmadeusITGroup/uvbox
     labels: ["written-in-go"]
     category: "launchers"
-  - name: Codon
-    github_id: exaloop/codon
-    labels: ["written-in-cpp"]
-    category: "compilers"
-  - name: Cython
-    github_id: cython/cython
-    pypi_id: Cython
-    labels: ["written-in-c", "written-in-python"]
-    category: "compilers"
   - name: python-build-standalone
     github_id: astral-sh/python-build-standalone
     labels: ["written-in-python"]
@@ -151,10 +142,6 @@ projects:
     pypi_id: xar
     labels: ["written-in-python"]
     category: "freezers"
-  - name: mypyc
-    github_id: python/mypy
-    labels: ["written-in-python"]
-    category: "compilers"
   - name: py2wasm
     github_id: wasmerio/py2wasm
     pypi_id: py2wasm
