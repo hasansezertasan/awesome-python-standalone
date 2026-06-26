@@ -231,3 +231,7 @@ projects:
     pypi_id: python-appimage
     labels: ["written-in-python"]
     category: "freezers"
+  - name: relocatable-python
+    github_id: gregneagle/relocatable-python
+    labels: ["written-in-python"]
+    category: "miscellaneous"
