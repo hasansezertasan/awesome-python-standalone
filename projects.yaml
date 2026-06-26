@@ -285,3 +285,8 @@ projects:
     github_id: RustPython/RustPython
     labels: ["written-in-rust"]
     category: "freezers"
+  - name: py2many
+    github_id: py2many/py2many
+    pypi_id: py2many
+    labels: ["written-in-python"]
+    category: "compilers"
