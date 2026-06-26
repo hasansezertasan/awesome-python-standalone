@@ -109,5 +109,5 @@ projects:
   - name: PyTauri
     github_id: pytauri/pytauri
     pypi_id: pytauri
-    labels: ["written-in-rust"]
+    labels: ["written-in-rust", "written-in-python"]
     category: "freezers"
