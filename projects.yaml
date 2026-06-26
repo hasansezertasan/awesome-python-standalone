@@ -106,6 +106,11 @@ projects:
   - name: "How do I ship a Python application to end users?"
     homepage: "https://pydevtools.com/handbook/explanation/how-do-i-ship-a-python-application-to-end-users/"
     resource: True
+  - name: constructor
+    github_id: conda/constructor
+    pypi_id: constructor
+    labels: ["written-in-python"]
+    category: "freezers"
   - name: PyTauri
     github_id: pytauri/pytauri
     pypi_id: pytauri
