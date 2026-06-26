@@ -106,3 +106,8 @@ projects:
   - name: "How do I ship a Python application to end users?"
     homepage: "https://pydevtools.com/handbook/explanation/how-do-i-ship-a-python-application-to-end-users/"
     resource: True
+  - name: py2wasm
+    github_id: wasmerio/py2wasm
+    pypi_id: py2wasm
+    labels: ["written-in-python"]
+    category: "compilers"
