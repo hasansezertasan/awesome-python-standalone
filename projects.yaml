@@ -110,4 +110,4 @@ projects:
     github_id: jlevy/py-app-standalone
     pypi_id: py-app-standalone
     labels: ["written-in-python"]
-    category: "launchers"
+    category: "freezers"
