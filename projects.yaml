@@ -192,3 +192,8 @@ projects:
     pypi_id: auto-py-to-exe
     labels: ["written-in-python"]
     category: "freezers"
+  - name: zipapps
+    github_id: ClericPy/zipapps
+    pypi_id: zipapps
+    labels: ["written-in-python"]
+    category: "zipapps"
