@@ -258,3 +258,8 @@ projects:
     pypi_id: macos-pkg-builder
     labels: ["written-in-python"]
     category: "miscellaneous"
+  - name: make-deb
+    github_id: nylas/make-deb
+    pypi_id: make-deb
+    labels: ["written-in-python"]
+    category: "miscellaneous"
