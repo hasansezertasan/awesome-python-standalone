@@ -268,3 +268,6 @@ projects:
     pypi_id: pymakeself
     labels: ["written-in-python"]
     category: "miscellaneous"
+  - name: Platypus
+    github_id: sveinbjornt/Platypus
+    category: "miscellaneous"
