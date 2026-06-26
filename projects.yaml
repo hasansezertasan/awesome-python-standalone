@@ -108,7 +108,6 @@ projects:
     resource: True
   - name: WinPython
     github_id: winpython/winpython
-    pypi_id: winpython
     labels: ["written-in-python"]
     category: "miscellaneous"
   - name: XAR
