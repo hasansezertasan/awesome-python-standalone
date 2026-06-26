@@ -6,7 +6,7 @@ configuration:
   require_license: false
   require_repo: false
   projects_per_category: 9999  # Don't truncate long categories
-  project_dead_months: 0  # Never treat inactive projects as "dead"; best-of hides dead projects in a "Show N hidden projects..." collapse
+  project_dead_months: 10000  # Effectively never mark projects "dead"; best-of hides dead projects in a "Show N hidden projects..." collapse. Large value (not 0) so behavior doesn't depend on best-of's falsy guard.
 
 categories:
   - category: "launchers"
