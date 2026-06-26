@@ -202,3 +202,8 @@ projects:
     pypi_id: stickytape
     labels: ["written-in-python"]
     category: "miscellaneous"
+  - name: pyempaq
+    github_id: facundobatista/pyempaq
+    pypi_id: pyempaq
+    labels: ["written-in-python"]
+    category: "zipapps"
