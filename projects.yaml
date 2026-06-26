@@ -106,3 +106,8 @@ projects:
   - name: "How do I ship a Python application to end users?"
     homepage: "https://pydevtools.com/handbook/explanation/how-do-i-ship-a-python-application-to-end-users/"
     resource: True
+  - name: WinPython
+    github_id: winpython/winpython
+    pypi_id: winpython
+    labels: ["written-in-python"]
+    category: "miscellaneous"
