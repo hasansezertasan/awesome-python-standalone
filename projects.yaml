@@ -212,3 +212,7 @@ projects:
     pypi_id: pinliner
     labels: ["written-in-python"]
     category: "miscellaneous"
+  - name: Shed Skin
+    github_id: shedskin/shedskin
+    labels: ["written-in-python"]
+    category: "compilers"
