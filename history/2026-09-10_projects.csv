@@ -1,0 +1,57 @@
+,name,homepage,resource,description,projectrank,show,category,github_id,pypi_id,labels,github_url,created_at,updated_at,last_commit_pushed_at,commit_count,fork_count,watchers_count,pr_count,open_issue_count,closed_issue_count,star_count,latest_stable_release_published_at,latest_stable_release_number,release_count,contributor_count,pypi_url,pypi_monthly_downloads,monthly_downloads,projectrank_placing,trending,dependent_project_count,github_dependent_project_count
+0,zipapp — Manage executable Python zip archives,https://docs.python.org/3/library/zipapp.html,True,,0,True,others,,,,,,,,,,,,,,,,,,,,,,,,,
+1,Why it's so hard to redistribute standalone Python apps,https://www.youtube.com/watch?v=3BfGAYfKZIg,True,,0,True,others,,,,,,,,,,,,,,,,,,,,,,,,,
+2,How to use the Python embeddable redistribution to make standalone apps,https://www.youtube.com/watch?v=xiwdz2LAtGc,True,,0,True,others,,,,,,,,,,,,,,,,,,,,,,,,,
+3,How do I ship a Python application to end users?,https://pydevtools.com/handbook/explanation/how-do-i-ship-a-python-application-to-end-users/,True,,0,True,others,,,,,,,,,,,,,,,,,,,,,,,,,
+4,XAR,https://github.com/facebookincubator/xar,,executable archive format.,16,True,miscellaneous,facebookincubator/xar,xar,['written-in-python'],https://github.com/facebookincubator/xar,2017-06-29 18:15:26,2023-12-28 22:35:49,2023-12-28 22:31:34,105.0,55.0,8.0,24.0,8.0,25.0,1572.0,2020-12-02 20:33:26,20.12.2,3.0,44.0,https://pypi.org/project/xar,5285.0,5285.0,1.0,12.0,,
+5,conda-pack,{},,,12,False,miscellaneous,conda/conda-pack,conda-pack,['written-in-python'],,,,,,,,,,,,,,,42.0,https://pypi.org/project/conda-pack,138408.0,138408.0,1.0,,3882.0,3882.0
+6,py2app,{},,,11,False,freezers,ronaldoussoren/py2app,py2app,['written-in-python'],,,,,,,,,,,,,,,31.0,https://pypi.org/project/py2app,42981.0,42981.0,1.0,,5598.0,5598.0
+7,auto-py-to-exe,{},,,11,False,freezers,brentvollebregt/auto-py-to-exe,auto-py-to-exe,['written-in-python'],,,,,,,,,,,,,,,41.0,https://pypi.org/project/auto-py-to-exe,46366.0,46366.0,1.0,,6535.0,6535.0
+8,dmgbuild,{},,,11,False,miscellaneous,dmgbuild/dmgbuild,dmgbuild,['written-in-python'],,,,,,,,,,,,,,,28.0,https://pypi.org/project/dmgbuild,119256.0,119256.0,2.0,,1076.0,1076.0
+9,pyinstaller,{},,,10,False,freezers,pyinstaller/pyinstaller,,['written-in-c'],,,,,,,,,,,,,,,500.0,,,,1.0,,91150.0,91150.0
+10,nuitka,{},,,8,False,compilers,Nuitka/Nuitka,,"['written-in-c', 'written-in-python']",,,,,,,,,,,,,,,212.0,,,,1.0,,4038.0,4038.0
+11,pynsist,{},,,8,False,freezers,takluyver/pynsist,pynsist,['written-in-python'],,,,,,,,,,,,,,,32.0,https://pypi.org/project/pynsist,6137.0,6137.0,2.0,-1.0,259.0,259.0
+12,briefcase,{},,,7,False,freezers,beeware/briefcase,,['written-in-python'],,,,,,,,,,,,,,,227.0,,,,2.0,,883.0,883.0
+13,fbs,{},,,7,False,freezers,mherrmann/fbs,fbs,['written-in-python'],,,,,,,,,,,,,,,14.0,https://pypi.org/project/fbs,944.0,944.0,2.0,2.0,929.0,929.0
+14,RustPython,{},,,7,False,freezers,RustPython/RustPython,,['written-in-rust'],,,,,,,,,,,,,,,533.0,,,,2.0,,896.0,896.0
+15,py2exe,{},,,6,False,freezers,py2exe/py2exe,,"['written-in-c', 'written-in-python']",,,,,,,,,,,,,,,25.0,,,,2.0,,2254.0,2254.0
+16,stickytape,{},,,6,False,miscellaneous,mwilliamson/stickytape,stickytape,['written-in-python'],,,,,,,,,,,,,,,4.0,https://pypi.org/project/stickytape,3609.0,3609.0,2.0,,66.0,66.0
+17,constructor,{},,,5,False,freezers,conda/constructor,constructor,['written-in-python'],,,,,,,,,,,,,,,82.0,https://pypi.org/project/constructor,193.0,193.0,2.0,,28.0,28.0
+18,PyTauri,{},,,5,False,freezers,pytauri/pytauri,pytauri,"['written-in-rust', 'written-in-python']",,,,,,,,,,,,,,,5.0,https://pypi.org/project/pytauri,4973.0,4973.0,2.0,3.0,15.0,15.0
+19,PyOxidizer,{},,,4,False,freezers,indygreg/PyOxidizer,,['written-in-rust'],,,,,,,,,,,,,,,54.0,,,,3.0,,159.0,159.0
+20,py2wasm,{},,,4,False,compilers,wasmerio/py2wasm,py2wasm,['written-in-python'],,,,,,,,,,,,,,,170.0,https://pypi.org/project/py2wasm,243.0,243.0,2.0,,,
+21,bbfreeze,{},,,4,False,freezers,schmir/bbfreeze,bbfreeze,['written-in-python'],,,,,,,,,,,,,,,15.0,https://pypi.org/project/bbfreeze,240.0,240.0,3.0,,31.0,31.0
+22,py2many,{},,,4,False,compilers,py2many/py2many,py2many,['written-in-python'],,,,,,,,,,,,,,,20.0,https://pypi.org/project/py2many,468.0,468.0,2.0,,36.0,36.0
+23,pyapp,{},,,3,False,launchers,ofek/pyapp,,['written-in-rust'],,,,,,,,,,,,,,,14.0,,,,1.0,,63.0,63.0
+24,staticx,{},,,3,False,freezers,JonathonReinhart/staticx,staticx,"['written-in-c', 'written-in-python']",,,,,,,,,,,,,,,6.0,https://pypi.org/project/staticx,,,3.0,-4.0,172.0,172.0
+25,python-appimage,{},,,3,False,freezers,niess/python-appimage,python-appimage,['written-in-python'],,,,,,,,,,,,,,,11.0,https://pypi.org/project/python-appimage,2523.0,2523.0,3.0,,,
+26,pyship,{},,,3,False,freezers,jamesabel/pyship,pyship,['written-in-python'],,,,,,,,,,,,,,,2.0,https://pypi.org/project/pyship,155.0,155.0,3.0,,13.0,13.0
+27,macOS-Pkg-Builder,{},,,3,False,miscellaneous,ripeda/macOS-Pkg-Builder,macos-pkg-builder,['written-in-python'],,,,,,,,,,,,,,,,https://pypi.org/project/macos-pkg-builder,3882.0,3882.0,2.0,,,
+28,portable-python,{},,,2,False,miscellaneous,bjia56/portable-python,,['written-in-python'],,,,,,,,,,,,,,,4.0,,,,3.0,,13.0,13.0
+29,zipapps,{},,,2,False,zipapps,ClericPy/zipapps,zipapps,['written-in-python'],,,,,,,,,,,,,,,2.0,https://pypi.org/project/zipapps,2911.0,2911.0,1.0,,,
+30,pyempaq,{},,,2,False,zipapps,facundobatista/pyempaq,pyempaq,['written-in-python'],,,,,,,,,,,,,,,5.0,https://pypi.org/project/pyempaq,41.0,41.0,1.0,,6.0,6.0
+31,pyqtdeploy,{},,,2,False,freezers,Python-PyQt/pyqtdeploy,pyqtdeploy,['written-in-python'],,,,,,,,,,,,,,,,https://pypi.org/project/pyqtdeploy,238.0,238.0,3.0,,,
+32,pyfuze,{},,,2,False,freezers,TanixLu/pyfuze,pyfuze,"['written-in-python', 'written-in-c']",,,,,,,,,,,,,,,,https://pypi.org/project/pyfuze,460.0,460.0,3.0,,2.0,2.0
+33,make-deb,{},,,2,False,miscellaneous,nylas/make-deb,make-deb,['written-in-python'],,,,,,,,,,,,,,,4.0,https://pypi.org/project/make-deb,15.0,15.0,3.0,-1.0,27.0,27.0
+34,pymakeself,{},,,2,False,miscellaneous,gammazero/pymakeself,pymakeself,['written-in-python'],,,,,,,,,,,,,,,3.0,https://pypi.org/project/pymakeself,102.0,102.0,3.0,,7.0,7.0
+35,pyportable-installer,{},,,2,False,freezers,likianta/pyportable-installer,pyportable-installer,['written-in-python'],,,,,,,,,,,,,,,,https://pypi.org/project/pyportable-installer,43.0,43.0,3.0,,4.0,4.0
+36,shiv,{},,,1,False,zipapps,linkedin/shiv,,['written-in-python'],,,,,,,,,,,,,,,45.0,,,,3.0,,,
+37,pex,{},,,1,False,zipapps,pex-tool/pex,,['written-in-python'],,,,,,,,,,,,,,,128.0,,,,3.0,,,
+38,cx_Freeze,{},,,1,False,freezers,marcelotduarte/cx_Freeze,,['written-in-python'],,,,,,,,,,,,,,,126.0,,,,3.0,,,
+39,PyCrucible,{},,,1,False,launchers,razorblade23/PyCrucible,,['written-in-rust'],,,,,,,,,,,,,,,5.0,,,,3.0,,3.0,3.0
+40,python-build-standalone,{},,,1,False,miscellaneous,astral-sh/python-build-standalone,,"['written-in-python', 'written-in-rust']",,,,,,,,,,,,,,,61.0,,,,3.0,,1.0,1.0
+41,py2static,{},,,1,False,freezers,joaompinto/py2static,py2static,['written-in-python'],,,,,,,,,,,,,,,,https://pypi.org/project/py2static,29.0,29.0,3.0,,,
+42,cosmofy,{},,,1,False,freezers,metaist/cosmofy,cosmofy,['written-in-python'],,,,,,,,,,,,,,,,https://pypi.org/project/cosmofy,53.0,53.0,3.0,,2.0,2.0
+43,py-app-standalone,{},,,1,False,freezers,jlevy/py-app-standalone,py-app-standalone,['written-in-python'],,,,,,,,,,,,,,,,https://pypi.org/project/py-app-standalone,63.0,63.0,3.0,,,
+44,WinPython,{},,,1,False,miscellaneous,winpython/winpython,,['written-in-python'],,,,,,,,,,,,,,,27.0,,,,3.0,,,
+45,Codon,{},,,1,False,compilers,exaloop/codon,,['written-in-cpp'],,,,,,,,,,,,,,,22.0,,,,3.0,,,
+46,pinliner,{},,,1,False,miscellaneous,Akrog/pinliner,pinliner,['written-in-python'],,,,,,,,,,,,,,,2.0,https://pypi.org/project/pinliner,47.0,47.0,3.0,1.0,6.0,6.0
+47,Shed Skin,{},,,1,False,compilers,shedskin/shedskin,,['written-in-python'],,,,,,,,,,,,,,,28.0,,,,3.0,,,
+48,python-embedded-launcher,{},,,1,False,freezers,zsquareplusc/python-embedded-launcher,,"['written-in-c', 'written-in-python']",,,,,,,,,,,,,,,2.0,,,,3.0,,13.0,13.0
+49,PyStand,{},,,0,False,freezers,skywind3000/PyStand,,['written-in-cpp'],,,,,,,,,,,,,,,5.0,,,,,,,
+50,uvbox,{},,,0,False,launchers,AmadeusITGroup/uvbox,,['written-in-go'],,,,,,,,,,,,,,,3.0,,,,,,,
+51,exxo,{},,,0,False,freezers,mbachry/exxo,,['written-in-python'],,,,,,,,,,,,,,,3.0,,,,,,,
+52,relocatable-python,{},,,0,False,miscellaneous,gregneagle/relocatable-python,,['written-in-python'],,,,,,,,,,,,,,,9.0,,,,,,,
+53,msicreator,{},,,0,False,miscellaneous,jpakkane/msicreator,,['written-in-python'],,,,,,,,,,,,,,,5.0,,,,,,,
+54,Platypus,{},,,0,False,miscellaneous,sveinbjornt/Platypus,,,,,,,,,,,,,,,,,15.0,,,,,,,
+55,packaged,{},,,-1,False,freezers,tusharsadhwani/packaged,,['written-in-python'],,,,,,,,,,,,,,,2.0,,,,3.0,,,
