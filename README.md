@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-4-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-5-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/hasansezertasan/awesome-python-standalone/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/hasansezertasan/awesome-python-standalone?color=green&label=updated"></a>
 </p>
 
-This curated list contains 4 awesome open-source projects with a total of 0 stars grouped into 5 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-standalone/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-standalone/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-standalone/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 5 awesome open-source projects with a total of 1.6K stars grouped into 5 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-standalone/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-standalone/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-standalone/edit/main/projects.yaml). Contributions are very welcome!
 
 ## What is a standalone Python application?
 
@@ -31,7 +31,7 @@ The tools below take different routes to get there — bundling the interpreter,
 - [Freezers](#freezers) _0 projects_
 - [Compilers](#compilers) _0 projects_
 - [Zipapps](#zipapps) _0 projects_
-- [Miscellaneous](#miscellaneous) _0 projects_
+- [Miscellaneous](#miscellaneous) _1 projects_
 - [Others](#others) _4 projects_
 
 ## Explanation
@@ -95,6 +95,18 @@ _Package the application as an executable zip archive. Requires Python to alread
 
 _If you can think of a more appropriate category for the items below, PRs welcome!_
 
+<details><summary><b><a href="https://github.com/facebookincubator/xar">XAR</a></b> (🥇16 ·  ⭐ 1.6K · 💤) - executable archive format. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/facebookincubator/xar) (👨‍💻 44 · 🔀 55 · 📋 33 - 24% open · ⏱️ 28.12.2023):
+
+	```
+	git clone https://github.com/facebookincubator/xar
+	```
+- [PyPi](https://pypi.org/project/xar) (📥 5.3K / month):
+	```
+	pip install xar
+	```
+</details>
 <br>
 
 ## Others
