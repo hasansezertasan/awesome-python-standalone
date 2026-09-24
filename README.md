@@ -102,7 +102,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 	```
 	git clone https://github.com/facebookincubator/xar
 	```
-- [PyPi](https://pypi.org/project/xar) (📥 6.1K / month):
+- [PyPi](https://pypi.org/project/xar) (📥 6.5K / month):
 	```
 	pip install xar
 	```
