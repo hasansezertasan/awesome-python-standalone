@@ -73,13 +73,13 @@ _Small bootstrap binaries that download Python and dependencies on first run (ty
 </details>
 <details><summary><b><a href="https://github.com/razorblade23/PyCrucible">PyCrucible</a></b> (🥉16 ·  ⭐ 210) - A robust, cross-platform builder and launcher for Python.. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/razorblade23/PyCrucible) (👨‍💻 5 · 🔀 5 · 📥 1K · 📦 3 · 📋 37 - 18% open · ⏱️ 30.08.2026):
+- [GitHub](https://github.com/razorblade23/PyCrucible) (👨‍💻 5 · 🔀 5 · 📥 1K · 📦 3 · 📋 38 - 21% open · ⏱️ 30.08.2026):
 
 	```
 	git clone https://github.com/razorblade23/PyCrucible
 	```
 </details>
-<details><summary><b><a href="https://github.com/AmadeusITGroup/uvbox">uvbox</a></b> (🥉10 ·  ⭐ 59) - Fast, simple and cross-platform Python application packaging. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/AmadeusITGroup/uvbox">uvbox</a></b> (🥉10 ·  ⭐ 59 · 💤) - Fast, simple and cross-platform Python application packaging. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/AmadeusITGroup/uvbox) (👨‍💻 3 · 🔀 2 · 📥 550 · 📋 6 - 33% open · ⏱️ 20.04.2026):
 
@@ -97,23 +97,23 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 
 <details><summary><b><a href="https://github.com/pyinstaller/pyinstaller">pyinstaller</a></b> (🥇39 ·  ⭐ 13K) - Freeze (package) Python programs into stand-alone.. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pyinstaller/pyinstaller) (👨‍💻 500 · 🔀 1.9K · 📥 750K · 📦 93K · 📋 5.6K - 1% open · ⏱️ 25.10.2026):
+- [GitHub](https://github.com/pyinstaller/pyinstaller) (👨‍💻 500 · 🔀 1.9K · 📥 750K · 📦 93K · 📋 5.6K - 1% open · ⏱️ 01.11.2026):
 
 	```
 	git clone https://github.com/pyinstaller/pyinstaller
 	```
 </details>
-<details><summary><b><a href="https://github.com/RustPython/RustPython">RustPython</a></b> (🥇36 ·  ⭐ 22K · 📈) - A Python Interpreter written in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/RustPython/RustPython">RustPython</a></b> (🥇36 ·  ⭐ 22K) - A Python Interpreter written in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/RustPython/RustPython) (👨‍💻 540 · 🔀 1.5K · 📥 5K · 📦 900 · 📋 1.4K - 12% open · ⏱️ 29.10.2026):
+- [GitHub](https://github.com/RustPython/RustPython) (👨‍💻 540 · 🔀 1.5K · 📥 5.1K · 📦 900 · 📋 1.5K - 12% open · ⏱️ 05.11.2026):
 
 	```
 	git clone https://github.com/RustPython/RustPython
 	```
 </details>
-<details><summary><b><a href="https://github.com/brentvollebregt/auto-py-to-exe">auto-py-to-exe</a></b> (🥇30 ·  ⭐ 5K · 📈) - Converts .py to .exe using a simple graphical interface. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/brentvollebregt/auto-py-to-exe">auto-py-to-exe</a></b> (🥇30 ·  ⭐ 5K) - Converts .py to .exe using a simple graphical interface. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/brentvollebregt/auto-py-to-exe) (👨‍💻 43 · 🔀 800 · 📥 31K · 📦 6.5K · 📋 420 - 0% open · ⏱️ 29.10.2026):
+- [GitHub](https://github.com/brentvollebregt/auto-py-to-exe) (👨‍💻 43 · 🔀 810 · 📥 31K · 📦 6.5K · 📋 420 - 0% open · ⏱️ 29.10.2026):
 
 	```
 	git clone https://github.com/brentvollebregt/auto-py-to-exe
@@ -125,7 +125,7 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 </details>
 <details><summary><b><a href="https://github.com/beeware/briefcase">briefcase</a></b> (🥇30 ·  ⭐ 3.4K) - Tools to support converting a Python project into a standalone.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/beeware/briefcase) (👨‍💻 230 · 🔀 540 · 📥 1.5K · 📦 890 · 📋 1K - 13% open · ⏱️ 28.10.2026):
+- [GitHub](https://github.com/beeware/briefcase) (👨‍💻 230 · 🔀 550 · 📥 1.5K · 📦 900 · 📋 1.1K - 13% open · ⏱️ 03.11.2026):
 
 	```
 	git clone https://github.com/beeware/briefcase
@@ -145,7 +145,7 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 </details>
 <details><summary><b><a href="https://github.com/conda/constructor">constructor</a></b> (🥈25 ·  ⭐ 500) - tool for creating installers from conda packages. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/conda/constructor) (👨‍💻 83 · 🔀 180 · 📥 290 · 📦 29 · 📋 460 - 9% open · ⏱️ 29.10.2026):
+- [GitHub](https://github.com/conda/constructor) (👨‍💻 83 · 🔀 180 · 📥 290 · 📦 29 · 📋 470 - 10% open · ⏱️ 03.11.2026):
 
 	```
 	git clone https://github.com/conda/constructor
@@ -157,7 +157,7 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 </details>
 <details><summary><b><a href="https://github.com/indygreg/PyOxidizer">PyOxidizer</a></b> (🥈24 ·  ⭐ 6.2K · 💤) - A modern Python application packaging and distribution.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/indygreg/PyOxidizer) (👨‍💻 54 · 🔀 250 · 📥 41K · 📦 160 · 📋 570 - 58% open · ⏱️ 03.11.2024):
+- [GitHub](https://github.com/indygreg/PyOxidizer) (👨‍💻 54 · 🔀 250 · 📥 42K · 📦 160 · 📋 570 - 58% open · ⏱️ 03.11.2024):
 
 	```
 	git clone https://github.com/indygreg/PyOxidizer
@@ -175,7 +175,7 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 	pip install py2app
 	```
 </details>
-<details><summary><b><a href="https://github.com/py2exe/py2exe">py2exe</a></b> (🥈23 ·  ⭐ 990) - Create standalone Windows programs from Python code. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/py2exe/py2exe">py2exe</a></b> (🥈23 ·  ⭐ 1K) - Create standalone Windows programs from Python code. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/py2exe/py2exe) (👨‍💻 25 · 🔀 120 · 📥 28K · 📦 2.3K · 📋 190 - 8% open · ⏱️ 21.06.2026):
 
@@ -185,13 +185,25 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 </details>
 <details><summary><b><a href="https://github.com/marcelotduarte/cx_Freeze">cx_Freeze</a></b> (🥈22 ·  ⭐ 1.6K) - Creates standalone executables from Python scripts with.. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/marcelotduarte/cx_Freeze) (👨‍💻 130 · 🔀 240 · 📋 1.1K - 3% open · ⏱️ 29.10.2026):
+- [GitHub](https://github.com/marcelotduarte/cx_Freeze) (👨‍💻 130 · 🔀 240 · 📋 1.1K - 3% open · ⏱️ 04.11.2026):
 
 	```
 	git clone https://github.com/marcelotduarte/cx_Freeze
 	```
 </details>
-<details><summary><b><a href="https://github.com/takluyver/pynsist">pynsist</a></b> (🥈22 ·  ⭐ 990) - Build Windows installers for Python applications. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/pytauri/pytauri">PyTauri</a></b> (🥈21 ·  ⭐ 1.4K · 💤) - Tauri binding for Python through Pyo3. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/pytauri/pytauri) (👨‍💻 5 · 🔀 30 · 📥 950 · 📦 15 · 📋 51 - 27% open · ⏱️ 10.09.2025):
+
+	```
+	git clone https://github.com/pytauri/pytauri
+	```
+- [PyPi](https://pypi.org/project/pytauri) (📥 8K / month):
+	```
+	pip install pytauri
+	```
+</details>
+<details><summary><b><a href="https://github.com/takluyver/pynsist">pynsist</a></b> (🥉20 ·  ⭐ 990 · 📉) - Build Windows installers for Python applications. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/takluyver/pynsist) (👨‍💻 32 · 🔀 120 · 📦 260 · 📋 180 - 16% open · ⏱️ 20.08.2026):
 
@@ -203,21 +215,9 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 	pip install pynsist
 	```
 </details>
-<details><summary><b><a href="https://github.com/pytauri/pytauri">PyTauri</a></b> (🥉21 ·  ⭐ 1.4K · 💤) - Tauri binding for Python through Pyo3. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/pytauri/pytauri) (👨‍💻 5 · 🔀 29 · 📥 950 · 📦 15 · 📋 51 - 27% open · ⏱️ 10.09.2025):
-
-	```
-	git clone https://github.com/pytauri/pytauri
-	```
-- [PyPi](https://pypi.org/project/pytauri) (📥 8K / month):
-	```
-	pip install pytauri
-	```
-</details>
 <details><summary><b><a href="https://github.com/JonathonReinhart/staticx">staticx</a></b> (🥉19 ·  ⭐ 430) - Create static executable from dynamic executable. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/JonathonReinhart/staticx) (👨‍💻 6 · 🔀 45 · 📥 290 · 📦 170 · 📋 170 - 31% open · ⏱️ 06.05.2026):
+- [GitHub](https://github.com/JonathonReinhart/staticx) (👨‍💻 6 · 🔀 46 · 📥 290 · 📦 170 · 📋 170 - 31% open · ⏱️ 31.10.2026):
 
 	```
 	git clone https://github.com/JonathonReinhart/staticx
@@ -227,7 +227,7 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 	pip install staticx
 	```
 </details>
-<details><summary><b><a href="https://github.com/skywind3000/PyStand">PyStand</a></b> (🥉16 ·  ⭐ 1.2K · 📉) - Python Standalone Deploy Environment !!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/skywind3000/PyStand">PyStand</a></b> (🥉16 ·  ⭐ 1.2K) - Python Standalone Deploy Environment !!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/skywind3000/PyStand) (👨‍💻 5 · 🔀 140 · 📥 17K · 📋 92 - 43% open · ⏱️ 03.08.2026):
 
@@ -235,9 +235,9 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 	git clone https://github.com/skywind3000/PyStand
 	```
 </details>
-<details><summary><b><a href="https://github.com/niess/python-appimage">python-appimage</a></b> (🥉16 ·  ⭐ 220 · 📈) - AppImage distributions of Python. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/niess/python-appimage">python-appimage</a></b> (🥉15 ·  ⭐ 220 · 📉) - AppImage distributions of Python. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/niess/python-appimage) (👨‍💻 11 · 🔀 33 · 📥 27K · 📋 80 - 25% open · ⏱️ 31.07.2026):
+- [GitHub](https://github.com/niess/python-appimage) (👨‍💻 11 · 🔀 33 · 📥 28K · 📋 81 - 24% open · ⏱️ 05.11.2026):
 
 	```
 	git clone https://github.com/niess/python-appimage
@@ -261,7 +261,7 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 </details>
 <details><summary><b><a href="https://github.com/metaist/cosmofy">cosmofy</a></b> (🥉11 ·  ⭐ 110 · 💤) - Cosmopolitan Python Bundler. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/metaist/cosmofy) (📥 190 · 📦 2 · 📋 120 - 2% open · ⏱️ 13.01.2026):
+- [GitHub](https://github.com/metaist/cosmofy) (📥 200 · 📦 2 · 📋 120 - 2% open · ⏱️ 13.01.2026):
 
 	```
 	git clone https://github.com/metaist/cosmofy
@@ -377,7 +377,7 @@ _Compile Python to C or machine code for performance and obfuscation. Fully stan
 
 <details><summary><b><a href="https://github.com/Nuitka/Nuitka">nuitka</a></b> (🥇31 ·  ⭐ 15K) - Nuitka is a Python compiler written in Python. Its fully.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/Nuitka/Nuitka) (👨‍💻 220 · 🔀 790 · 📦 4.2K · 📋 2.9K - 6% open · ⏱️ 29.10.2026):
+- [GitHub](https://github.com/Nuitka/Nuitka) (👨‍💻 220 · 🔀 790 · 📦 4.2K · 📋 2.9K - 5% open · ⏱️ 01.11.2026):
 
 	```
 	git clone https://github.com/Nuitka/Nuitka
@@ -385,15 +385,15 @@ _Compile Python to C or machine code for performance and obfuscation. Fully stan
 </details>
 <details><summary><b><a href="https://github.com/exaloop/codon">Codon</a></b> (🥈26 ·  ⭐ 17K) - A high-performance, zero-overhead, extensible Python compiler with.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/exaloop/codon) (👨‍💻 23 · 🔀 610 · 📥 71K · 📋 550 - 17% open · ⏱️ 29.10.2026):
+- [GitHub](https://github.com/exaloop/codon) (👨‍💻 24 · 🔀 610 · 📥 73K · 📋 550 - 16% open · ⏱️ 03.11.2026):
 
 	```
 	git clone https://github.com/exaloop/codon
 	```
 </details>
-<details><summary><b><a href="https://github.com/py2many/py2many">py2many</a></b> (🥉25 ·  ⭐ 1.3K) - Transpiler of Python to many other languages. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/py2many/py2many">py2many</a></b> (🥉24 ·  ⭐ 1.3K · 📉) - Transpiler of Python to many other languages. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/py2many/py2many) (👨‍💻 21 · 🔀 87 · 📦 36 · 📋 310 - 38% open · ⏱️ 22.10.2026):
+- [GitHub](https://github.com/py2many/py2many) (👨‍💻 21 · 🔀 87 · 📦 36 · 📋 310 - 38% open · ⏱️ 30.10.2026):
 
 	```
 	git clone https://github.com/py2many/py2many
@@ -405,7 +405,7 @@ _Compile Python to C or machine code for performance and obfuscation. Fully stan
 </details>
 <details><summary><b><a href="https://github.com/shedskin/shedskin">Shed Skin</a></b> (🥉23 ·  ⭐ 1K) - Shed Skin is a restricted-Python-to-C++ transpiler. Read.. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/shedskin/shedskin) (👨‍💻 29 · 🔀 120 · 📥 15K · 📋 600 - 14% open · ⏱️ 29.10.2026):
+- [GitHub](https://github.com/shedskin/shedskin) (👨‍💻 29 · 🔀 120 · 📥 15K · 📋 620 - 16% open · ⏱️ 05.11.2026):
 
 	```
 	git clone https://github.com/shedskin/shedskin
@@ -431,23 +431,23 @@ _Compile Python to C or machine code for performance and obfuscation. Fully stan
 
 _Package the application as an executable zip archive. Requires Python to already be installed on the target — best for internal/dev distribution._
 
-<details><summary><b><a href="https://github.com/pex-tool/pex">pex</a></b> (🥇30 ·  ⭐ 4.2K · 📈) - A tool for generating .pex (Python EXecutable) files, lock files.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/pex-tool/pex">pex</a></b> (🥇30 ·  ⭐ 4.2K) - A tool for generating .pex (Python EXecutable) files, lock files and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pex-tool/pex) (👨‍💻 130 · 🔀 320 · 📥 1.8M · 📋 1.3K - 4% open · ⏱️ 27.10.2026):
+- [GitHub](https://github.com/pex-tool/pex) (👨‍💻 130 · 🔀 320 · 📥 1.4M · 📋 1.3K - 4% open · ⏱️ 03.11.2026):
 
 	```
 	git clone https://github.com/pex-tool/pex
 	```
 </details>
-<details><summary><b><a href="https://github.com/linkedin/shiv">shiv</a></b> (🥈18 ·  ⭐ 1.9K) - shiv is a command line utility for building fully self contained.. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/linkedin/shiv">shiv</a></b> (🥈18 ·  ⭐ 2K) - shiv is a command line utility for building fully self contained Python.. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/linkedin/shiv) (👨‍💻 45 · 🔀 120 · 📥 3.5K · 📋 130 - 36% open · ⏱️ 22.05.2026):
+- [GitHub](https://github.com/linkedin/shiv) (👨‍💻 45 · 🔀 120 · 📥 3.6K · 📋 130 - 36% open · ⏱️ 22.05.2026):
 
 	```
 	git clone https://github.com/linkedin/shiv
 	```
 </details>
-<details><summary><b><a href="https://github.com/ClericPy/zipapps">zipapps</a></b> (🥉14 ·  ⭐ 85) - Package your python code into an executable zip file (with the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/ClericPy/zipapps">zipapps</a></b> (🥉14 ·  ⭐ 85 · 💤) - Package your python code into an executable zip file (with the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/ClericPy/zipapps) (👨‍💻 2 · 🔀 6 · 📥 120 · ⏱️ 25.04.2026):
 
@@ -481,7 +481,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <details><summary><b><a href="https://github.com/conda/conda-pack">conda-pack</a></b> (🥇31 ·  ⭐ 580) - Package conda environments for redistribution. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/conda/conda-pack) (👨‍💻 44 · 🔀 100 · 📦 3.9K · 📋 180 - 6% open · ⏱️ 26.10.2026):
+- [GitHub](https://github.com/conda/conda-pack) (👨‍💻 44 · 🔀 100 · 📦 3.9K · 📋 180 - 6% open · ⏱️ 03.11.2026):
 
 	```
 	git clone https://github.com/conda/conda-pack
@@ -493,7 +493,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/winpython/winpython">WinPython</a></b> (🥇26 ·  ⭐ 2.3K) - A free Python-distribution for Windows platform, including.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/winpython/winpython) (👨‍💻 27 · 🔀 350 · 📥 96K · 📋 690 - 11% open · ⏱️ 29.10.2026):
+- [GitHub](https://github.com/winpython/winpython) (👨‍💻 27 · 🔀 350 · 📥 100K · 📋 690 - 10% open · ⏱️ 29.10.2026):
 
 	```
 	git clone https://github.com/winpython/winpython
@@ -501,7 +501,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/dmgbuild/dmgbuild">dmgbuild</a></b> (🥈24 ·  ⭐ 210) - macOS command line utility to build disk images. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/dmgbuild/dmgbuild) (👨‍💻 29 · 🔀 46 · 📦 1.2K · 📋 49 - 10% open · ⏱️ 11.10.2026):
+- [GitHub](https://github.com/dmgbuild/dmgbuild) (👨‍💻 30 · 🔀 46 · 📦 1.2K · 📋 50 - 8% open · ⏱️ 04.11.2026):
 
 	```
 	git clone https://github.com/dmgbuild/dmgbuild
@@ -511,9 +511,9 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 	pip install dmgbuild
 	```
 </details>
-<details><summary><b><a href="https://github.com/sveinbjornt/Platypus">Platypus</a></b> (🥈21 ·  ⭐ 3.5K) - Create native macOS applications from command line scripts. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/sveinbjornt/Platypus">Platypus</a></b> (🥈21 ·  ⭐ 3.5K · 💤) - Create native macOS applications from command line scripts. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/sveinbjornt/Platypus) (👨‍💻 15 · 🔀 200 · 📥 39K · 📋 280 - 12% open · ⏱️ 27.04.2026):
+- [GitHub](https://github.com/sveinbjornt/Platypus) (👨‍💻 15 · 🔀 200 · 📥 41K · 📋 280 - 12% open · ⏱️ 27.04.2026):
 
 	```
 	git clone https://github.com/sveinbjornt/Platypus
@@ -533,7 +533,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/facebookincubator/xar">XAR</a></b> (🥉16 ·  ⭐ 1.6K · 💤) - executable archive format. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/facebookincubator/xar) (👨‍💻 44 · 🔀 55 · 📋 33 - 24% open · ⏱️ 28.12.2023):
+- [GitHub](https://github.com/facebookincubator/xar) (👨‍💻 44 · 🔀 54 · 📋 33 - 24% open · ⏱️ 28.12.2023):
 
 	```
 	git clone https://github.com/facebookincubator/xar
@@ -543,9 +543,9 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 	pip install xar
 	```
 </details>
-<details><summary><b><a href="https://github.com/bjia56/portable-python">portable-python</a></b> (🥉16 ·  ⭐ 90 · 📈) - Portable Python binaries. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/bjia56/portable-python">portable-python</a></b> (🥉16 ·  ⭐ 90) - Portable Python binaries. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/bjia56/portable-python) (👨‍💻 5 · 🔀 6 · 📥 17K · 📦 13 · ⏱️ 29.10.2026):
+- [GitHub](https://github.com/bjia56/portable-python) (👨‍💻 5 · 🔀 6 · 📥 9.8K · 📦 13 · ⏱️ 31.10.2026):
 
 	```
 	git clone https://github.com/bjia56/portable-python
