@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-55-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-54-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/hasansezertasan/awesome-python-standalone/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/hasansezertasan/awesome-python-standalone?color=green&label=updated"></a>
 </p>
 
-This curated list contains 55 awesome open-source projects with a total of 120K stars grouped into 5 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-standalone/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-standalone/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-standalone/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 54 awesome open-source projects with a total of 120K stars grouped into 5 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-standalone/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-standalone/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-standalone/edit/main/projects.yaml). Contributions are very welcome!
 
 ## What is a standalone Python application?
 
@@ -31,7 +31,7 @@ The tools below take different routes to get there — bundling the interpreter,
 - [Freezers](#freezers) _26 projects_
 - [Compilers](#compilers) _5 projects_
 - [Zipapps](#zipapps) _4 projects_
-- [Miscellaneous](#miscellaneous) _13 projects_
+- [Miscellaneous](#miscellaneous) _12 projects_
 - [Others](#others) _4 projects_
 
 ## Explanation
@@ -73,7 +73,7 @@ _Small bootstrap binaries that download Python and dependencies on first run (ty
 </details>
 <details><summary><b><a href="https://github.com/razorblade23/PyCrucible">PyCrucible</a></b> (🥉16 ·  ⭐ 220) - A robust, cross-platform builder and launcher for Python.. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/razorblade23/PyCrucible) (👨‍💻 5 · 🔀 5 · 📥 1K · 📦 3 · 📋 38 - 21% open · ⏱️ 30.08.2026):
+- [GitHub](https://github.com/razorblade23/PyCrucible) (👨‍💻 5 · 🔀 5 · 📥 1.1K · 📦 3 · 📋 38 - 21% open · ⏱️ 30.08.2026):
 
 	```
 	git clone https://github.com/razorblade23/PyCrucible
@@ -97,7 +97,7 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 
 <details><summary><b><a href="https://github.com/pyinstaller/pyinstaller">pyinstaller</a></b> (🥇39 ·  ⭐ 13K) - Freeze (package) Python programs into stand-alone.. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pyinstaller/pyinstaller) (👨‍💻 500 · 🔀 1.9K · 📥 750K · 📦 94K · 📋 5.6K - 1% open · ⏱️ 08.11.2026):
+- [GitHub](https://github.com/pyinstaller/pyinstaller) (👨‍💻 500 · 🔀 1.9K · 📥 750K · 📦 94K · 📋 5.6K - 1% open · ⏱️ 17.11.2026):
 
 	```
 	git clone https://github.com/pyinstaller/pyinstaller
@@ -105,7 +105,7 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 </details>
 <details><summary><b><a href="https://github.com/RustPython/RustPython">RustPython</a></b> (🥇36 ·  ⭐ 22K) - A Python Interpreter written in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/RustPython/RustPython) (👨‍💻 540 · 🔀 1.5K · 📥 5.3K · 📦 900 · 📋 1.5K - 12% open · ⏱️ 12.11.2026):
+- [GitHub](https://github.com/RustPython/RustPython) (👨‍💻 540 · 🔀 1.5K · 📥 5.8K · 📦 900 · 📋 1.5K - 13% open · ⏱️ 19.11.2026):
 
 	```
 	git clone https://github.com/RustPython/RustPython
@@ -113,19 +113,19 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 </details>
 <details><summary><b><a href="https://github.com/brentvollebregt/auto-py-to-exe">auto-py-to-exe</a></b> (🥇30 ·  ⭐ 5K) - Converts .py to .exe using a simple graphical interface. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/brentvollebregt/auto-py-to-exe) (👨‍💻 43 · 🔀 810 · 📥 31K · 📦 6.5K · 📋 420 - 0% open · ⏱️ 29.10.2026):
+- [GitHub](https://github.com/brentvollebregt/auto-py-to-exe) (👨‍💻 43 · 🔀 810 · 📥 31K · 📦 6.5K · 📋 420 - 0% open · ⏱️ 19.11.2026):
 
 	```
 	git clone https://github.com/brentvollebregt/auto-py-to-exe
 	```
-- [PyPi](https://pypi.org/project/auto-py-to-exe) (📥 29K / month):
+- [PyPi](https://pypi.org/project/auto-py-to-exe) (📥 24K / month):
 	```
 	pip install auto-py-to-exe
 	```
 </details>
 <details><summary><b><a href="https://github.com/beeware/briefcase">briefcase</a></b> (🥇30 ·  ⭐ 3.4K) - Tools to support converting a Python project into a standalone.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/beeware/briefcase) (👨‍💻 240 · 🔀 550 · 📥 1.6K · 📦 900 · 📋 1.1K - 13% open · ⏱️ 11.11.2026):
+- [GitHub](https://github.com/beeware/briefcase) (👨‍💻 240 · 🔀 550 · 📥 1.7K · 📦 900 · 📋 1.1K - 13% open · ⏱️ 19.11.2026):
 
 	```
 	git clone https://github.com/beeware/briefcase
@@ -138,19 +138,19 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 	```
 	git clone https://github.com/mherrmann/fbs
 	```
-- [PyPi](https://pypi.org/project/fbs) (📥 2.2K / month):
+- [PyPi](https://pypi.org/project/fbs) (📥 2K / month):
 	```
 	pip install fbs
 	```
 </details>
 <details><summary><b><a href="https://github.com/conda/constructor">constructor</a></b> (🥈25 ·  ⭐ 500) - tool for creating installers from conda packages. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/conda/constructor) (👨‍💻 83 · 🔀 180 · 📥 290 · 📦 29 · 📋 470 - 10% open · ⏱️ 10.11.2026):
+- [GitHub](https://github.com/conda/constructor) (👨‍💻 83 · 🔀 180 · 📥 290 · 📦 29 · 📋 470 - 10% open · ⏱️ 16.11.2026):
 
 	```
 	git clone https://github.com/conda/constructor
 	```
-- [PyPi](https://pypi.org/project/constructor) (📥 150 / month):
+- [PyPi](https://pypi.org/project/constructor) (📥 280 / month):
 	```
 	pip install constructor
 	```
@@ -170,14 +170,14 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 	```
 	git clone https://github.com/ronaldoussoren/py2app
 	```
-- [PyPi](https://pypi.org/project/py2app) (📥 33K / month):
+- [PyPi](https://pypi.org/project/py2app) (📥 30K / month):
 	```
 	pip install py2app
 	```
 </details>
 <details><summary><b><a href="https://github.com/py2exe/py2exe">py2exe</a></b> (🥈23 ·  ⭐ 1K) - Create standalone Windows programs from Python code. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/py2exe/py2exe) (👨‍💻 25 · 🔀 120 · 📥 28K · 📦 2.3K · 📋 190 - 8% open · ⏱️ 21.06.2026):
+- [GitHub](https://github.com/py2exe/py2exe) (👨‍💻 25 · 🔀 110 · 📥 28K · 📦 2.3K · 📋 190 - 8% open · ⏱️ 21.06.2026):
 
 	```
 	git clone https://github.com/py2exe/py2exe
@@ -185,20 +185,20 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 </details>
 <details><summary><b><a href="https://github.com/marcelotduarte/cx_Freeze">cx_Freeze</a></b> (🥈22 ·  ⭐ 1.6K) - Creates standalone executables from Python scripts with.. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/marcelotduarte/cx_Freeze) (👨‍💻 130 · 🔀 240 · 📋 1.1K - 3% open · ⏱️ 07.11.2026):
+- [GitHub](https://github.com/marcelotduarte/cx_Freeze) (👨‍💻 130 · 🔀 240 · 📋 1.1K - 3% open · ⏱️ 14.11.2026):
 
 	```
 	git clone https://github.com/marcelotduarte/cx_Freeze
 	```
 </details>
-<details><summary><b><a href="https://github.com/pytauri/pytauri">PyTauri</a></b> (🥈21 ·  ⭐ 1.4K · 💤) - Tauri binding for Python through Pyo3. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/pytauri/pytauri">PyTauri</a></b> (🥈22 ·  ⭐ 1.4K · 💤) - Tauri binding for Python through Pyo3. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pytauri/pytauri) (👨‍💻 5 · 🔀 30 · 📥 1K · 📦 15 · 📋 51 - 27% open · ⏱️ 10.09.2025):
+- [GitHub](https://github.com/pytauri/pytauri) (👨‍💻 5 · 🔀 31 · 📥 1K · 📦 15 · 📋 51 - 27% open · ⏱️ 10.09.2025):
 
 	```
 	git clone https://github.com/pytauri/pytauri
 	```
-- [PyPi](https://pypi.org/project/pytauri) (📥 8K / month):
+- [PyPi](https://pypi.org/project/pytauri) (📥 29K / month):
 	```
 	pip install pytauri
 	```
@@ -210,19 +210,19 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 	```
 	git clone https://github.com/takluyver/pynsist
 	```
-- [PyPi](https://pypi.org/project/pynsist) (📥 4K / month):
+- [PyPi](https://pypi.org/project/pynsist) (📥 5.4K / month):
 	```
 	pip install pynsist
 	```
 </details>
-<details><summary><b><a href="https://github.com/JonathonReinhart/staticx">staticx</a></b> (🥉20 ·  ⭐ 430 · 📈) - Create static executable from dynamic executable. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/JonathonReinhart/staticx">staticx</a></b> (🥉20 ·  ⭐ 430) - Create static executable from dynamic executable. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/JonathonReinhart/staticx) (👨‍💻 6 · 🔀 47 · 📥 300 · 📦 170 · 📋 170 - 32% open · ⏱️ 10.11.2026):
 
 	```
 	git clone https://github.com/JonathonReinhart/staticx
 	```
-- [PyPi](https://pypi.org/project/staticx) (📥 23K / month):
+- [PyPi](https://pypi.org/project/staticx) (📥 44K / month):
 	```
 	pip install staticx
 	```
@@ -237,12 +237,12 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 </details>
 <details><summary><b><a href="https://github.com/niess/python-appimage">python-appimage</a></b> (🥉15 ·  ⭐ 220) - AppImage distributions of Python. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/niess/python-appimage) (👨‍💻 11 · 🔀 33 · 📥 30K · 📋 81 - 24% open · ⏱️ 05.11.2026):
+- [GitHub](https://github.com/niess/python-appimage) (👨‍💻 11 · 🔀 33 · 📥 32K · 📋 81 - 24% open · ⏱️ 05.11.2026):
 
 	```
 	git clone https://github.com/niess/python-appimage
 	```
-- [PyPi](https://pypi.org/project/python-appimage) (📥 2.5K / month):
+- [PyPi](https://pypi.org/project/python-appimage) (📥 3.1K / month):
 	```
 	pip install python-appimage
 	```
@@ -254,9 +254,21 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 	```
 	git clone https://github.com/TanixLu/pyfuze
 	```
-- [PyPi](https://pypi.org/project/pyfuze) (📥 610 / month):
+- [PyPi](https://pypi.org/project/pyfuze) (📥 660 / month):
 	```
 	pip install pyfuze
+	```
+</details>
+<details><summary><b><a href="https://github.com/jamesabel/pyship">pyship</a></b> (🥉12 ·  ⭐ 46 · 📈) - pyship - ship Python desktop apps to end users. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/jamesabel/pyship) (👨‍💻 2 · 🔀 3 · 📦 13 · ⏱️ 15.11.2026):
+
+	```
+	git clone https://github.com/jamesabel/pyship
+	```
+- [PyPi](https://pypi.org/project/pyship) (📥 260 / month):
+	```
+	pip install pyship
 	```
 </details>
 <details><summary><b><a href="https://github.com/metaist/cosmofy">cosmofy</a></b> (🥉11 ·  ⭐ 110 · 💤) - Cosmopolitan Python Bundler. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
@@ -266,33 +278,45 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 	```
 	git clone https://github.com/metaist/cosmofy
 	```
-- [PyPi](https://pypi.org/project/cosmofy) (📥 49 / month):
+- [PyPi](https://pypi.org/project/cosmofy) (📥 46 / month):
 	```
 	pip install cosmofy
 	```
 </details>
+<details><summary><b><a href="https://github.com/schmir/bbfreeze">bbfreeze</a></b> (🥉11 ·  ⭐ 91 · 💤) - UNMAINTAINED. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/schmir/bbfreeze) (👨‍💻 15 · 🔀 22 · 📦 31 · 📋 25 - 36% open · ⏱️ 23.06.2014):
+
+	```
+	git clone https://github.com/schmir/bbfreeze
+	```
+- [PyPi](https://pypi.org/project/bbfreeze) (📥 160 / month):
+	```
+	pip install bbfreeze
+	```
+</details>
 <details><summary><b><a href="https://github.com/likianta/pyportable-installer">pyportable-installer</a></b> (🥉11 ·  ⭐ 67 · 💤) - Build and distribute installation-free python.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/likianta/pyportable-installer) (🔀 5 · 📥 170 · 📦 4 · 📋 13 - 15% open · ⏱️ 24.04.2024):
+- [GitHub](https://github.com/likianta/pyportable-installer) (🔀 5 · 📥 180 · 📦 4 · 📋 13 - 15% open · ⏱️ 24.04.2024):
 
 	```
 	git clone https://github.com/likianta/pyportable-installer
 	```
-- [PyPi](https://pypi.org/project/pyportable-installer) (📥 76 / month):
+- [PyPi](https://pypi.org/project/pyportable-installer) (📥 96 / month):
 	```
 	pip install pyportable-installer
 	```
 </details>
-<details><summary><b><a href="https://github.com/jamesabel/pyship">pyship</a></b> (🥉11 ·  ⭐ 46) - pyship - ship Python desktop apps to end users. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/jlevy/py-app-standalone">py-app-standalone</a></b> (🥉11 ·  ⭐ 55 · 💤) - Standalone, relocatable Python app installs with uv. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/jamesabel/pyship) (👨‍💻 2 · 🔀 3 · 📦 13 · ⏱️ 14.10.2026):
+- [GitHub](https://github.com/jlevy/py-app-standalone) (🔀 4 · ⏱️ 19.04.2025):
 
 	```
-	git clone https://github.com/jamesabel/pyship
+	git clone https://github.com/jlevy/py-app-standalone
 	```
-- [PyPi](https://pypi.org/project/pyship) (📥 65 / month):
+- [PyPi](https://pypi.org/project/py-app-standalone) (📥 160 / month):
 	```
-	pip install pyship
+	pip install py-app-standalone
 	```
 </details>
 <details><summary><b><a href="https://github.com/tusharsadhwani/packaged">packaged</a></b> (🥉10 ·  ⭐ 200 · 💤) - The easiest way to ship python applications. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
@@ -301,30 +325,6 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 
 	```
 	git clone https://github.com/tusharsadhwani/packaged
-	```
-</details>
-<details><summary><b><a href="https://github.com/schmir/bbfreeze">bbfreeze</a></b> (🥉10 ·  ⭐ 91 · 💤) - UNMAINTAINED. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/schmir/bbfreeze) (👨‍💻 15 · 🔀 22 · 📦 31 · 📋 25 - 36% open · ⏱️ 23.06.2014):
-
-	```
-	git clone https://github.com/schmir/bbfreeze
-	```
-- [PyPi](https://pypi.org/project/bbfreeze) (📥 130 / month):
-	```
-	pip install bbfreeze
-	```
-</details>
-<details><summary><b><a href="https://github.com/jlevy/py-app-standalone">py-app-standalone</a></b> (🥉10 ·  ⭐ 55 · 💤) - Standalone, relocatable Python app installs with uv. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/jlevy/py-app-standalone) (🔀 4 · ⏱️ 19.04.2025):
-
-	```
-	git clone https://github.com/jlevy/py-app-standalone
-	```
-- [PyPi](https://pypi.org/project/py-app-standalone) (📥 97 / month):
-	```
-	pip install py-app-standalone
 	```
 </details>
 <details><summary><b><a href="https://github.com/mbachry/exxo">exxo</a></b> (🥉9 ·  ⭐ 460 · 💤) - Build portable Python binaries. <code><a href="http://bit.ly/3hkKRql">ISC</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
@@ -342,7 +342,7 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 	```
 	git clone https://github.com/Python-PyQt/pyqtdeploy
 	```
-- [PyPi](https://pypi.org/project/pyqtdeploy) (📥 240 / month):
+- [PyPi](https://pypi.org/project/pyqtdeploy) (📥 290 / month):
 	```
 	pip install pyqtdeploy
 	```
@@ -362,7 +362,7 @@ _Bundle the Python interpreter and dependencies into a self-contained package. F
 	```
 	git clone https://github.com/joaompinto/py2static
 	```
-- [PyPi](https://pypi.org/project/py2static) (📥 67 / month):
+- [PyPi](https://pypi.org/project/py2static) (📥 27 / month):
 	```
 	pip install py2static
 	```
@@ -377,15 +377,15 @@ _Compile Python to C or machine code for performance and obfuscation. Fully stan
 
 <details><summary><b><a href="https://github.com/Nuitka/Nuitka">nuitka</a></b> (🥇31 ·  ⭐ 15K) - Nuitka is a Python compiler written in Python. Its fully.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/Nuitka/Nuitka) (👨‍💻 220 · 🔀 790 · 📦 4.2K · 📋 2.9K - 5% open · ⏱️ 08.11.2026):
+- [GitHub](https://github.com/Nuitka/Nuitka) (👨‍💻 220 · 🔀 790 · 📦 4.3K · 📋 3K - 6% open · ⏱️ 19.11.2026):
 
 	```
 	git clone https://github.com/Nuitka/Nuitka
 	```
 </details>
-<details><summary><b><a href="https://github.com/exaloop/codon">Codon</a></b> (🥈27 ·  ⭐ 17K · 📈) - A high-performance, zero-overhead, extensible Python compiler.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/exaloop/codon">Codon</a></b> (🥈27 ·  ⭐ 17K) - A high-performance, zero-overhead, extensible Python compiler with.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/exaloop/codon) (👨‍💻 24 · 🔀 600 · 📥 74K · 📋 550 - 16% open · ⏱️ 11.11.2026):
+- [GitHub](https://github.com/exaloop/codon) (👨‍💻 24 · 🔀 600 · 📥 75K · 📋 550 - 16% open · ⏱️ 18.11.2026):
 
 	```
 	git clone https://github.com/exaloop/codon
@@ -398,14 +398,14 @@ _Compile Python to C or machine code for performance and obfuscation. Fully stan
 	```
 	git clone https://github.com/py2many/py2many
 	```
-- [PyPi](https://pypi.org/project/py2many) (📥 450 / month):
+- [PyPi](https://pypi.org/project/py2many) (📥 420 / month):
 	```
 	pip install py2many
 	```
 </details>
 <details><summary><b><a href="https://github.com/shedskin/shedskin">Shed Skin</a></b> (🥉23 ·  ⭐ 1K) - Shed Skin is a restricted-Python-to-C++ transpiler. Read.. <code>❗Unlicensed</code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/shedskin/shedskin) (👨‍💻 30 · 🔀 120 · 📥 15K · 📋 640 - 17% open · ⏱️ 12.11.2026):
+- [GitHub](https://github.com/shedskin/shedskin) (👨‍💻 30 · 🔀 120 · 📥 15K · 📋 640 - 18% open · ⏱️ 19.11.2026):
 
 	```
 	git clone https://github.com/shedskin/shedskin
@@ -418,7 +418,7 @@ _Compile Python to C or machine code for performance and obfuscation. Fully stan
 	```
 	git clone https://github.com/wasmerio/py2wasm
 	```
-- [PyPi](https://pypi.org/project/py2wasm) (📥 160 / month):
+- [PyPi](https://pypi.org/project/py2wasm) (📥 310 / month):
 	```
 	pip install py2wasm
 	```
@@ -431,17 +431,17 @@ _Compile Python to C or machine code for performance and obfuscation. Fully stan
 
 _Package the application as an executable zip archive. Requires Python to already be installed on the target — best for internal/dev distribution._
 
-<details><summary><b><a href="https://github.com/pex-tool/pex">pex</a></b> (🥇30 ·  ⭐ 4.2K) - A tool for generating .pex (Python EXecutable) files, lock files and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/pex-tool/pex">pex</a></b> (🥇29 ·  ⭐ 4.2K · 📉) - A tool for generating .pex (Python EXecutable) files, lock files.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pex-tool/pex) (👨‍💻 130 · 🔀 320 · 📥 1.6M · 📋 1.3K - 4% open · ⏱️ 06.11.2026):
+- [GitHub](https://github.com/pex-tool/pex) (👨‍💻 130 · 🔀 320 · 📥 1.7M · 📋 1.3K - 4% open · ⏱️ 13.11.2026):
 
 	```
 	git clone https://github.com/pex-tool/pex
 	```
 </details>
-<details><summary><b><a href="https://github.com/linkedin/shiv">shiv</a></b> (🥈18 ·  ⭐ 2K) - shiv is a command line utility for building fully self contained Python.. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/linkedin/shiv">shiv</a></b> (🥈18 ·  ⭐ 1.9K) - shiv is a command line utility for building fully self contained.. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/linkedin/shiv) (👨‍💻 45 · 🔀 120 · 📥 3.7K · 📋 130 - 36% open · ⏱️ 22.05.2026):
+- [GitHub](https://github.com/linkedin/shiv) (👨‍💻 45 · 🔀 120 · 📥 3.8K · 📋 130 - 36% open · ⏱️ 22.05.2026):
 
 	```
 	git clone https://github.com/linkedin/shiv
@@ -454,19 +454,19 @@ _Package the application as an executable zip archive. Requires Python to alread
 	```
 	git clone https://github.com/ClericPy/zipapps
 	```
-- [PyPi](https://pypi.org/project/zipapps) (📥 23K / month):
+- [PyPi](https://pypi.org/project/zipapps) (📥 8.8K / month):
 	```
 	pip install zipapps
 	```
 </details>
-<details><summary><b><a href="https://github.com/facundobatista/pyempaq">pyempaq</a></b> (🥉14 ·  ⭐ 55 · 📈) - A simple but powerful Python packer to run any project with.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/facundobatista/pyempaq">pyempaq</a></b> (🥉14 ·  ⭐ 55) - A simple but powerful Python packer to run any project with any.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/facundobatista/pyempaq) (👨‍💻 5 · 🔀 9 · 📥 86 · 📦 6 · 📋 39 - 23% open · ⏱️ 09.11.2026):
+- [GitHub](https://github.com/facundobatista/pyempaq) (👨‍💻 5 · 🔀 9 · 📥 87 · 📦 6 · 📋 39 - 23% open · ⏱️ 09.11.2026):
 
 	```
 	git clone https://github.com/facundobatista/pyempaq
 	```
-- [PyPi](https://pypi.org/project/pyempaq) (📥 50 / month):
+- [PyPi](https://pypi.org/project/pyempaq) (📥 91 / month):
 	```
 	pip install pyempaq
 	```
@@ -481,52 +481,52 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <details><summary><b><a href="https://github.com/conda/conda-pack">conda-pack</a></b> (🥇31 ·  ⭐ 580) - Package conda environments for redistribution. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/conda/conda-pack) (👨‍💻 44 · 🔀 100 · 📦 3.9K · 📋 180 - 6% open · ⏱️ 08.11.2026):
+- [GitHub](https://github.com/conda/conda-pack) (👨‍💻 44 · 🔀 100 · 📦 3.9K · 📋 180 - 5% open · ⏱️ 08.11.2026):
 
 	```
 	git clone https://github.com/conda/conda-pack
 	```
-- [PyPi](https://pypi.org/project/conda-pack) (📥 120K / month):
+- [PyPi](https://pypi.org/project/conda-pack) (📥 150K / month):
 	```
 	pip install conda-pack
 	```
 </details>
-<details><summary><b><a href="https://github.com/winpython/winpython">WinPython</a></b> (🥇26 ·  ⭐ 2.3K) - A free Python-distribution for Windows platform, including.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/dmgbuild/dmgbuild">dmgbuild</a></b> (🥇28 ·  ⭐ 210 · 📈) - macOS command line utility to build disk images. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/winpython/winpython) (👨‍💻 26 · 🔀 350 · 📥 110K · 📋 690 - 10% open · ⏱️ 29.10.2026):
+- [GitHub](https://github.com/dmgbuild/dmgbuild) (👨‍💻 30 · 🔀 46 · 📥 9 · 📦 1.3K · 📋 51 - 7% open · ⏱️ 16.11.2026):
+
+	```
+	git clone https://github.com/dmgbuild/dmgbuild
+	```
+- [PyPi](https://pypi.org/project/dmgbuild) (📥 220K / month):
+	```
+	pip install dmgbuild
+	```
+</details>
+<details><summary><b><a href="https://github.com/winpython/winpython">WinPython</a></b> (🥈26 ·  ⭐ 2.3K) - A free Python-distribution for Windows platform, including.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/winpython/winpython) (👨‍💻 27 · 🔀 350 · 📥 110K · 📋 690 - 10% open · ⏱️ 15.11.2026):
 
 	```
 	git clone https://github.com/winpython/winpython
 	```
 </details>
-<details><summary><b><a href="https://github.com/dmgbuild/dmgbuild">dmgbuild</a></b> (🥈25 ·  ⭐ 210 · 📈) - macOS command line utility to build disk images. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/dmgbuild/dmgbuild) (👨‍💻 30 · 🔀 46 · 📥 4 · 📦 1.3K · 📋 50 - 6% open · ⏱️ 12.11.2026):
-
-	```
-	git clone https://github.com/dmgbuild/dmgbuild
-	```
-- [PyPi](https://pypi.org/project/dmgbuild) (📥 110K / month):
-	```
-	pip install dmgbuild
-	```
-</details>
 <details><summary><b><a href="https://github.com/sveinbjornt/Platypus">Platypus</a></b> (🥈21 ·  ⭐ 3.5K · 💤) - Create native macOS applications from command line scripts. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/sveinbjornt/Platypus) (👨‍💻 15 · 🔀 200 · 📥 41K · 📋 280 - 12% open · ⏱️ 27.04.2026):
+- [GitHub](https://github.com/sveinbjornt/Platypus) (👨‍💻 15 · 🔀 200 · 📥 42K · 📋 280 - 12% open · ⏱️ 27.04.2026):
 
 	```
 	git clone https://github.com/sveinbjornt/Platypus
 	```
 </details>
-<details><summary><b><a href="https://github.com/mwilliamson/stickytape">stickytape</a></b> (🥈17 ·  ⭐ 260 · 💤) - Convert Python packages into a single script. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/mwilliamson/stickytape">stickytape</a></b> (🥈17 ·  ⭐ 250 · 💤) - Convert Python packages into a single script. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/mwilliamson/stickytape) (👨‍💻 4 · 🔀 29 · 📦 66 · 📋 25 - 12% open · ⏱️ 01.05.2023):
 
 	```
 	git clone https://github.com/mwilliamson/stickytape
 	```
-- [PyPi](https://pypi.org/project/stickytape) (📥 3.7K / month):
+- [PyPi](https://pypi.org/project/stickytape) (📥 5.5K / month):
 	```
 	pip install stickytape
 	```
@@ -538,27 +538,19 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 	```
 	git clone https://github.com/facebookincubator/xar
 	```
-- [PyPi](https://pypi.org/project/xar) (📥 5.3K / month):
+- [PyPi](https://pypi.org/project/xar) (📥 3K / month):
 	```
 	pip install xar
 	```
 </details>
-<details><summary><b><a href="https://github.com/bjia56/portable-python">portable-python</a></b> (🥉16 ·  ⭐ 90) - Portable Python binaries. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/bjia56/portable-python) (👨‍💻 5 · 🔀 6 · 📥 11K · 📦 13 · ⏱️ 31.10.2026):
-
-	```
-	git clone https://github.com/bjia56/portable-python
-	```
-</details>
-<details><summary><b><a href="https://github.com/nylas/make-deb">make-deb</a></b> (🥉12 ·  ⭐ 290 · 💤) - Tool for building debian packages from your python projects. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/nylas/make-deb">make-deb</a></b> (🥉13 ·  ⭐ 290 · 💤) - Tool for building debian packages from your python projects. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/nylas/make-deb) (👨‍💻 4 · 🔀 33 · 📦 27 · 📋 20 - 65% open · ⏱️ 28.03.2016):
 
 	```
 	git clone https://github.com/nylas/make-deb
 	```
-- [PyPi](https://pypi.org/project/make-deb) (📥 11 / month):
+- [PyPi](https://pypi.org/project/make-deb) (📥 23 / month):
 	```
 	pip install make-deb
 	```
@@ -578,7 +570,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 	```
 	git clone https://github.com/ripeda/macOS-Pkg-Builder
 	```
-- [PyPi](https://pypi.org/project/macos-pkg-builder) (📥 2.1K / month):
+- [PyPi](https://pypi.org/project/macos-pkg-builder) (📥 1.5K / month):
 	```
 	pip install macos-pkg-builder
 	```
@@ -590,7 +582,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 	```
 	git clone https://github.com/Akrog/pinliner
 	```
-- [PyPi](https://pypi.org/project/pinliner) (📥 36 / month):
+- [PyPi](https://pypi.org/project/pinliner) (📥 47 / month):
 	```
 	pip install pinliner
 	```
@@ -610,7 +602,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 	```
 	git clone https://github.com/gammazero/pymakeself
 	```
-- [PyPi](https://pypi.org/project/pymakeself) (📥 65 / month):
+- [PyPi](https://pypi.org/project/pymakeself) (📥 130 / month):
 	```
 	pip install pymakeself
 	```
